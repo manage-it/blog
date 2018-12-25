@@ -1,169 +1,125 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-        <meta charset="utf-8" />
-        <title>Manage IT</title>
-        <link rel="stylesheet" href="https://manage-it.github.io/blog/theme/css/main.css" />
+    <title>Manage IT</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="https://manage-it.github.io/blog">
+        <meta name="author" content="TienTN & DinhNV" />
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Manage IT" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Manage IT"/>
+        <meta property="og:url" content="https://manage-it.github.io/blog"/>
+        <meta property="og:description" content="Manage IT"/>
+
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://manage-it.github.io/blog/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://manage-it.github.io/blog/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://manage-it.github.io/blog/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://manage-it.github.io/blog/theme/css/style.css" type="text/css"/>
+
+        <link href="https://manage-it.github.io/blog/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Manage IT ATOM Feed"/>
+
+
+
+
 </head>
+<body>
 
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="https://manage-it.github.io/blog/">Manage IT </a></h1>
-                <nav><ul>
-                    <li><a href="https://manage-it.github.io/blog/category/dev.html">DEV</a></li>
-                    <li><a href="https://manage-it.github.io/blog/category/qa.html">QA</a></li>
-                </ul></nav>
-        </header><!-- /#banner -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://manage-it.github.io/blog/" class="navbar-brand">
+Manage IT            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                        <li >
+                            <a href="https://manage-it.github.io/blog/category/dev.html">Dev</a>
+                        </li>
+                        <li >
+                            <a href="https://manage-it.github.io/blog/category/qa.html">Qa</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
 
-            <aside id="featured" class="body">
-                <article>
-                    <h1 class="entry-title"><a href="https://manage-it.github.io/blog/bo-duc-trong-tiem-do-su.html">Bò đực trong tiệm đồ sứ</a></h1>
-<footer class="post-info">
-        <abbr class="published" title="2018-12-20T10:20:00+07:00">
-                Published: Thu 20 December 2018
-        </abbr>
-		<br />
-        <abbr class="modified" title="2018-12-20T10:20:00+07:00">
-                Updated: Thu 20 December 2018
-        </abbr>
+<!-- Banner -->
+<!-- End Banner -->
 
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/dev.html">DEV</a>.</p>
-<p>tags: <a href="https://manage-it.github.io/blog/tag/dev.html">dev</a> </p>
-</footer><!-- /.post-info --><blockquote>
-<p>Viết tắt: "Bò đực"
-Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà hoàn toàn quên  đi các ý niệm về chất lượng.</p>
-</blockquote>
-<ul>
-<li><em>Có thể biến đổi thành: Dev "Người Lính"</em></li>
-<li><em>Nguy hiểm khi làm việc với: PM "Bạo chúa" hoặc QA dạng "Vòi nước cứu hỏa"</em></li>
-<li><em>Khả năng sửa chữa: <strong>Cao</strong></em></li>
-<li><em>Nguy cơ với dự án: <strong>Trung bình</strong></em></li>
-</ul>
-<h2>Vấn đề:</h2>
-<p>Áp lực trên các nhà phát triển phần mềm là khổng lồ. <em>"Internet không bao giờ ngủ"</em> cũng có nghĩa là các dev không bao giờ ngủ. Nhằm cố gắng thay đổi và tái cân bằng giữa cuộc sống - công việc, Bò đực trong tiệm đồ sứ chỉ muốn hoàn thành danh sách các công việc được giao càng sớm càng tốt, để trở về nhà với gia đình.</p>
-<p>Bò đực được tạo ra bởi các áp lực dự án. Dù cho dev có khá đến mấy, nếu áp lực dự án đủ cao, họ chắc chắn sẽ ngừng test các kết quả công việc của mình, và thay vì thế dựa vào QA (xem QA "Kẻ đổ lỗi") như một phương tiện chủ yếu cho việc tìm lỗi. Thêm nữa, lấy thực dụng làm cái cớ, họ sẽ quên đi các biện pháp cần thiết như review code chéo, test tự động, tái cấu trúc ... để mã nguồn trong một trạng thái hư nát. Phần mềm thiết kế kém cỏi này sẽ tạo ra các lỗi mới, và bộ mã nền tảng sẽ nhanh chóng bị thoái hóa thành một mạch nước phun ra toàn lỗi, mà không thể nào bịt lại nổi.</p>
-<p>Bò đực sống trong một trạng thái stress thường xuyên, đè nặng lên họ bời những người có trách nhiệm (điều hành) dự án. Họ là nạn nhân của một dự án được lên kế hoạch và vận hành kém cỏi, nhưng lại bị coi lại vấn đề. Câu nói "Vắt chanh bỏ vỏ" được dùng để đề cập tới "Bò đực", bởi vì stress thường xuyên rồi sẽ phá hủy họ, và họ sẽ ra đi hoặc bị đuổi việc vì sự kém cỏi quá rõ ràng này.</p>
-<h2>Giải pháp:</h2>
-<p>Bởi vì họ không phải là vấn đề, vấn đề có thể được điều chỉnh bởi tổ chức bằng cách thực hiện các bước sau:</p>
-<ol>
-<li>Tạo ra một khoảng thời gian để lấy hơi trong dự án bằng cách cắt bớt scope hoặc đẩy deadline cao lên.</li>
-<li>Trong khoảng thời gian bình lặng mà ta tạo ra này, tổ chức một sự kiện "lesson learn" để "Bò đực" có thể có cơ hội nói lên những nỗi bất bình của mình.</li>
-<li>Phân tích nguyên nhân chính của các lỗi, và sửa chữa chúng. Đừng vội vàng, mà hãy đảm bảo là bạn định vị được hết các vấn đề trước khi xử lý.</li>
-<li>Cần nhận thấy các trường hợp bị vắt kiệt trong các dev và bắt buộc họ phải nghỉ ngơi với một quỹ thời gian không chính thức. Các tổ chức ít khi làm việc này, nhưng nó có kết quả rất tốt.</li>
-<li>Khi tái tập hợp team, đánh giá lại dự án một cách tổng thể để thiết lập scope mới cũng như các ngày bàn giao.</li>
-</ol>
-<p>Trong khi các bước này cho ta một hướng rõ ràng để sửa chữa vấn đề, bề ngoài, chúng lại tỏ ra không liên quan mấy tới việc: chính cách quản lý là nguồn gốc của mọi vấn đề đang diễn ra. Thay vì thế mọi người sẽ thấy rằng chính bộ phận quản lý đã giúp đỡ bằng cách đưa ra giải pháp. Thực tế là: nhờ việc bộ phận quản lý tự nhận ra được rằng: họ có trách nhiệm trong quá trình tạo ra các "Bò đực", trong vài tuần, với các giải pháp trên, các thiệt hại có thể được sửa chữa và dự án được trở lại lộ trình vốn có của nó.</p>
-<p>TienTN dịch 20181220</p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/diva.html" rel="bookmark"
-                           title="Permalink to Diva">Diva</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-20T10:20:00+07:00">
-                Published: Thu 20 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/dev.html">Dev</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+<!-- Content Container -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/bo-duc-trong-tiem-do-su.html">Bò đực trong tiệm đồ sứ</a></h2>
+                <div class="summary"><p>Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà hoàn toàn quên  đi các ý niệm về chất lượng.</p>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/bo-duc-trong-tiem-do-su.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/diva.html">Diva</a></h2>
+                <div class="summary"><blockquote>
 <p>Một dev quá tin vào tính chất bất khả thay thế của bản thân và khoác lên mình một thái độ kiêu ngạo tới mức không ai quản lý nổi.</p>
 </blockquote>
 <ul>
 <li><em>Có thể biến đổi thành: Dev "Kẻ bắt cóc" hoặc "Người ham thích công nghệ"</em></li>
 <li><em>Nguy hiểm khi làm việc …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/diva.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/voi-nuoc-cuu-hoa.html" rel="bookmark"
-                           title="Permalink to Vòi nước cứu hỏa">Vòi nước cứu hỏa</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-20T00:00:00+07:00">
-                Published: Thu 20 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/qa.html">QA</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/diva.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/voi-nuoc-cuu-hoa.html">Vòi nước cứu hỏa</a></h2>
+                <div class="summary"><blockquote>
 <p>Là một QA dìm ngập nhanh chóng các dev với quá nhiều báo cáo lỗi, khiến cho đội dev sẽ không bao giờ hoàn thành công việc. </p>
 </blockquote>
 <ul>
 <li><em>Có thể biến đổi thành: QA "Kẻ gieo sợ hãi"</em></li>
 <li><em>Nguy hiểm khi làm việc với: PM "Nhà thống kê"</em></li>
 <li><em>Khả năng sửa …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/voi-nuoc-cuu-hoa.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/nguoi-uoc-luong-du-thua-cuc-doan.html" rel="bookmark"
-                           title="Permalink to Người ước lượng dư thừa cực đoan">Người ước lượng dư thừa cực đoan</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-19T00:00:00+07:00">
-                Published: Wed 19 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/dev.html">Dev</a>.</p>
-
-</footer><!-- /.post-info -->                <p>_Viết tắt: Người ước lượng dư thừa</p>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/voi-nuoc-cuu-hoa.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/nguoi-uoc-luong-du-thua-cuc-doan.html">Người ước lượng dư thừa cực đoan</a></h2>
+                <div class="summary"><p>_Viết tắt: Người ước lượng dư thừa</p>
 <blockquote>
 <p>Một dev sợ hãi việc trễ deadline tới mức họ luôn yêu cầu thêm tối đa thời gian cho công việc được giao.</p>
 </blockquote>
 <ul>
 <li><em>Có thể biến đổi thành: Dev "Bò đực trong cửa hàng đồ sứ"</em></li>
 <li><em>Nguy hiểm khi làm việc với: PM …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/nguoi-uoc-luong-du-thua-cuc-doan.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/nguoi-uoc-luong-thieu-cuc-doan.html" rel="bookmark"
-                           title="Permalink to Người ước lượng thiếu cực đoan">Người ước lượng thiếu cực đoan</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-19T00:00:00+07:00">
-                Published: Wed 19 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/dev.html">Dev</a>.</p>
-
-</footer><!-- /.post-info -->                <p><em>Viết tắt: Người ước lượng thiếu</em></p>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/nguoi-uoc-luong-du-thua-cuc-doan.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/nguoi-uoc-luong-thieu-cuc-doan.html">Người ước lượng thiếu cực đoan</a></h2>
+                <div class="summary"><p><em>Viết tắt: Người ước lượng thiếu</em></p>
 <blockquote>
 <p>Một dev thường xuyên và liên tục estimate thời gian thực hiện task dưới mức thực tế.</p>
 </blockquote>
@@ -171,83 +127,38 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 <li><em>Có thể biến đổi thành: Dev "<a href="/DEV_nguoi_uoc_luong_du_thua_cuc_doan">Người ước lượng dư thừa cực đoan</a>"</em></li>
 <li><em>Nguy hiểm khi làm việc với: PM dạng "Người lạc quan"</em></li>
 <li><em>Khả năng sửa …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/nguoi-uoc-luong-thieu-cuc-doan.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/ke-bat-coc.html" rel="bookmark"
-                           title="Permalink to Kẻ bắt cóc">Kẻ bắt cóc</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-15T00:00:00+07:00">
-                Published: Sat 15 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn-dinhnv.html">TienTN & DinhNV</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/dev.html">Dev</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/nguoi-uoc-luong-thieu-cuc-doan.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/ke-bat-coc.html">Kẻ bắt cóc</a></h2>
+                <div class="summary"><blockquote>
 <p>Là một dev đã từng việt một phần quan trọng của sản phẩm, và từ chối bất kỳ một dev nào làm việc với nó, để giữ vững tầm quan trọng không thể thay thế được của họ.</p>
 </blockquote>
 <ul>
 <li><em>Có thể biến đổi thành: Dev "Người bảo trì" hoặc "Diva"</em></li>
 <li><em>Nguy …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/ke-bat-coc.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/ke-thieu-nang-luc.html" rel="bookmark"
-                           title="Permalink to Kẻ thiếu năng lực">Kẻ thiếu năng lực</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-14T00:00:00+07:00">
-                Published: Fri 14 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/dev.html">Dev</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/ke-bat-coc.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/ke-thieu-nang-luc.html">Kẻ thiếu năng lực</a></h2>
+                <div class="summary"><blockquote>
 <p>Một dev thiếu hiểu biết hoặc thiếu kỹ năng để làm công việc viết phần mềm.</p>
 </blockquote>
 <ul>
 <li><em>Có thể biến đổi thành: Dev "Người Lính", hoặc "Kẻ dự toán vượt mức cực đoan"</em></li>
 <li><em>Nguy hiểm khi làm việc với: Quản lý phát triển dạng "Không kỹ thuật"</em></li>
 <li><em>Khả năng sửa chữa …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/ke-thieu-nang-luc.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/nguoi-bao-tri.html" rel="bookmark"
-                           title="Permalink to Người bảo trì">Người bảo trì</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-14T00:00:00+07:00">
-                Published: Fri 14 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/dev.html">Dev</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/ke-thieu-nang-luc.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/nguoi-bao-tri.html">Người bảo trì</a></h2>
+                <div class="summary"><blockquote>
 <p>Một dev chỉ có khả năng bảo trì một phần mềm cũ, không có khả năng làm các hệ thống mới.</p>
 </blockquote>
 <ul>
@@ -255,81 +166,36 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 <li><em>Nguy hiểm khi làm việc với: Nhà thiết kế "Nghệ sĩ"</em></li>
 <li><em>Khả năng sửa chữa: <strong>Không</strong></em></li>
 <li><em>Nguy …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/nguoi-bao-tri.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/nguoi-ly-tuong-hoa.html" rel="bookmark"
-                           title="Permalink to Người lý tưởng hóa">Người lý tưởng hóa</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-14T00:00:00+07:00">
-                Published: Fri 14 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/dev.html">Dev</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/nguoi-bao-tri.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/nguoi-ly-tuong-hoa.html">Người lý tưởng hóa</a></h2>
+                <div class="summary"><blockquote>
 <p>Một dev bị ám ảnh bởi việc đạt được vẻ đẹp của kiến trúc và sự hoàn thiện trong mã nguồn, khiến họ quên mất công việc của mình là tạo ra giá trị kinh doanh.</p>
 </blockquote>
 <ul>
 <li><em>Có thể biến đổi thành: Dev "Kẻ dự đoán dưới mức cực đoan" hoặc …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/nguoi-ly-tuong-hoa.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/nguoi-mong-duoc-quan-ly.html" rel="bookmark"
-                           title="Permalink to Người mong được quản lý">Người mong được quản lý</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-14T00:00:00+07:00">
-                Published: Fri 14 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/dev.html">Dev</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/nguoi-ly-tuong-hoa.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/nguoi-mong-duoc-quan-ly.html">Người mong được quản lý</a></h2>
+                <div class="summary"><blockquote>
 <p>Một dev đã quyết định thoát khỏi sự khó khăn trong việc lập trình, định hướng công việc của họ là trở thành một nhà quản lý.</p>
 </blockquote>
 <ul>
 <li><em>Có thể biến đổi thành: Nhà quản lý phát triển dạng "Cựu chuyên gia công nghệ" hoặc "Người leo thang"</em></li>
 <li><em>Nguy hiểm khi …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/nguoi-mong-duoc-quan-ly.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/nguoi-linh.html" rel="bookmark"
-                           title="Permalink to Người Lính">Người Lính</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-13T00:00:00+07:00">
-                Published: Thu 13 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/dev.html">Dev</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/nguoi-mong-duoc-quan-ly.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/nguoi-linh.html">Người Lính</a></h2>
+                <div class="summary"><blockquote>
 <p>Một dev làm chính xác điều được yêu cầu mà không có chút thắc mắc, không quan tâm đúng sai.</p>
 </blockquote>
 <ul>
@@ -337,55 +203,25 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 <li><em>Nguy hiểm khi làm việc với: PM dạng "Bạo chúa"</em></li>
 <li><em>Khả năng sửa chữa: <strong>Không</strong></em></li>
 <li><em>Nguy cơ với dự …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/nguoi-linh.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/nguoi-ham-thich-cong-nghe.html" rel="bookmark"
-                           title="Permalink to Người ham thích công nghệ">Người ham thích công nghệ</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-12T00:00:00+07:00">
-                Published: Wed 12 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/dev.html">Dev</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/nguoi-linh.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/nguoi-ham-thich-cong-nghe.html">Người ham thích công nghệ</a></h2>
+                <div class="summary"><blockquote>
 <p>Một dev cuồng công nghệ mới tới nỗi họ luôn tự ứng cử vào các dự án (có công nghệ mới), mà không ý thức được rằng mình có phù hợp hay không.</p>
 </blockquote>
 <ul>
 <li><em>Có thể biến đổi thành: Dev "Kẻ bắt cóc"</em></li>
 <li><em>Nguy hiểm khi làm việc với: Dev "Lý …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/nguoi-ham-thich-cong-nghe.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/ke-do-loi.html" rel="bookmark"
-                           title="Permalink to Kẻ đổ lỗi">Kẻ đổ lỗi</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-09T00:00:00+07:00">
-                Published: Sun 09 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/qa.html">QA</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/nguoi-ham-thich-cong-nghe.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/ke-do-loi.html">Kẻ đổ lỗi</a></h2>
+                <div class="summary"><blockquote>
 <p>Một QA luôn buộc tội không kiểm tra cho dev khi anh ta tìm thấy lỗi.</p>
 </blockquote>
 <ul>
@@ -395,28 +231,13 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 <li><em>Nguy cơ với dự án: <strong>Thấp</strong></em></li>
 </ul>
 <h2>Vấn đề …</h2>
-                <a class="readmore" href="https://manage-it.github.io/blog/ke-do-loi.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/ke-gay-lac-loi.html" rel="bookmark"
-                           title="Permalink to Kẻ gây lạc lối">Kẻ gây lạc lối</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-07T00:00:00+07:00">
-                Published: Fri 07 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/qa.html">QA</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/ke-do-loi.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/ke-gay-lac-loi.html">Kẻ gây lạc lối</a></h2>
+                <div class="summary"><blockquote>
 <p>Một QA thường xuyên báo lỗi sai, dẫn dắt các dev vào con đường sai khi họ cố gắng tái tạo và sửa lỗi.</p>
 </blockquote>
 <ul>
@@ -424,54 +245,24 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 <li><em>Nguy hiểm khi làm việc với: PM "Nhà thống kê"</em></li>
 <li><em>Khả năng sửa chữa: <strong>Cao</strong></em></li>
 <li><em>Nguy …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/ke-gay-lac-loi.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/ke-gieo-so-hai.html" rel="bookmark"
-                           title="Permalink to Kẻ gieo sợ hãi">Kẻ gieo sợ hãi</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-07T00:00:00+07:00">
-                Published: Fri 07 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/qa.html">QA</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/ke-gay-lac-loi.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/ke-gieo-so-hai.html">Kẻ gieo sợ hãi</a></h2>
+                <div class="summary"><blockquote>
 <p>Một QA sẵn lòng tuyên bố rằng cả cái sản phẩm này là một bãi ..., vì nó có chất lượng không thể nào chấp nhận được, chỉ dựa trên những cảm nhận ban đầu của mình mà thôi.</p>
 </blockquote>
 <ul>
 <li><em>Có thể biến hình thành: QA "Kẻ đổ lỗi" hoặc là QA …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/ke-gieo-so-hai.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/ke-xac-xuoc.html" rel="bookmark"
-                           title="Permalink to Kẻ xấc xược">Kẻ xấc xược</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-07T00:00:00+07:00">
-                Published: Fri 07 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/qa.html">QA</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/ke-gieo-so-hai.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/ke-xac-xuoc.html">Kẻ xấc xược</a></h2>
+                <div class="summary"><blockquote>
 <p>Là một QA mà các báo cáo bug mang tính gây hấn thụ động, khiến cho các dev cảm thấy xấc xược, thô lỗ.</p>
 </blockquote>
 <ul>
@@ -479,28 +270,13 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 <li><em>Rất nguy hiểm khi đi cùng: Dev Diva</em></li>
 <li><em>Khả năng sửa chữa: <strong>Thấp</strong></em></li>
 <li><em>Nguy cơ với dự …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/ke-xac-xuoc.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/nha-khoa-hoc.html" rel="bookmark"
-                           title="Permalink to Nhà khoa học">Nhà khoa học</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-07T00:00:00+07:00">
-                Published: Fri 07 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/qa.html">QA</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/ke-xac-xuoc.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/nha-khoa-hoc.html">Nhà khoa học</a></h2>
+                <div class="summary"><blockquote>
 <p>Một QA dùng phần lớn thời gian của mình để viết tài liệu về lỗi, chứ không phải đi tìm lỗi mới.</p>
 </blockquote>
 <ul>
@@ -508,56 +284,26 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 <li><em>Nguy hiểm khi làm việc với: PM "Tác giả có bản quyền"</em></li>
 <li><em>Khả năng sửa chữa: <strong>Cao</strong></em></li>
 <li><em>Nguy …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/nha-khoa-hoc.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/nguoi-bi-cha-dap.html" rel="bookmark"
-                           title="Permalink to Người bị chà đạp">Người bị chà đạp</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-06T00:00:00+07:00">
-                Published: Thu 06 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/qa.html">QA</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/nha-khoa-hoc.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/nguoi-bi-cha-dap.html">Người bị chà đạp</a></h2>
+                <div class="summary"><blockquote>
 <p>Một QA bị đánh bại bởi các dev tới mức mà họ hiếm khi dám báo cáo một lỗi, vì quá sợ sự bắt nạt của dev.</p>
 </blockquote>
 <ul>
 <li><em>Có thể biến đổi thành: Kẻ xấc xược</em></li>
 <li><em>Nguy hiểm khi làm chung với: Các dev kiểu "Diva" hoặc "Kẻ bắt cóc"</em></li>
 <li><em>Khả …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/nguoi-bi-cha-dap.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://manage-it.github.io/blog/ke-bam-loan-xa.html" rel="bookmark"
-                           title="Permalink to Kẻ bấm loạn xạ">Kẻ bấm loạn xạ</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-12-05T00:00:00+07:00">
-                Published: Wed 05 December 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://manage-it.github.io/blog/author/tientn.html">TienTN</a>
-        </address>
-<p>In <a href="https://manage-it.github.io/blog/category/qa.html">QA</a>.</p>
-
-</footer><!-- /.post-info -->                <blockquote>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/nguoi-bi-cha-dap.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="https://manage-it.github.io/blog/ke-bam-loan-xa.html">Kẻ bấm loạn xạ</a></h2>
+                <div class="summary"><blockquote>
 <p>Là một QA chuyên tìm lỗi đơn giản chỉ bằng cách bấm lên bất kỳ cái gì họ thích.</p>
 </blockquote>
 <ul>
@@ -565,38 +311,77 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 <li><em>Nguy hiểm khi làm việc chung với: PM dạng tác giả sáng chế</em></li>
 <li><em>Khả năng sửa chữa: <strong>Thấp</strong></em></li>
 <li><em>Nguy cơ với …</em></li></ul>
-                <a class="readmore" href="https://manage-it.github.io/blog/ke-bam-loan-xa.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-                </ol><!-- /#posts-list -->
-                </section><!-- /#content -->
-        <section id="extras" class="body">
-                <div class="blogroll">
-                        <h2>links</h2>
-                        <ul>
-                            <li><a href="http://getpelican.com/">Pelican</a></li>
-                            <li><a href="http://python.org/">Python.org</a></li>
-                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
-                            <li><a href="#">You can modify those links in your config file</a></li>
-                        </ul>
-                </div><!-- /.blogroll -->
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
+                    <a class="btn btn-default btn-xs" href="https://manage-it.github.io/blog/ke-bam-loan-xa.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
 
-                            <li><a href="#">You can add links in your config file</a></li>
-                            <li><a href="#">Another social link</a></li>
-                        </ul>
-                </div><!-- /.social -->
-        </section><!-- /#extras -->
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+<!-- Sidebar -->
+<section class="well well-sm">
+  <ul class="list-group list-group-flush">
 
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
+<!-- Sidebar/Social -->
+<li class="list-group-item">
+  <h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+  <ul class="list-group" id="social">
+    <li class="list-group-item"><a href="#"><i class="fa fa-you-can-add-links-in-your-config-file-square fa-lg"></i> You can add links in your config file</a></li>
+    <li class="list-group-item"><a href="#"><i class="fa fa-another-social-link-square fa-lg"></i> Another social link</a></li>
+  </ul>
+</li>
+<!-- End Sidebar/Social -->
 
-                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-        </footer><!-- /#contentinfo -->
+<!-- Sidebar/Links -->
+<li class="list-group-item">
+  <h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+  <ul class="list-group" id="links">
+    <li class="list-group-item">
+      <a href="http://getpelican.com/" target="_blank">Pelican</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://python.org/" target="_blank">Python.org</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://jinja.pocoo.org/" target="_blank">Jinja2</a>
+    </li>
+    <li class="list-group-item">
+      <a href="#" target="_blank">You can modify those links in your config file</a>
+    </li>
+  </ul>
+</li>
+<!-- End Sidebar/Links -->
+  </ul>
+</section>
+<!-- End Sidebar -->            </aside>
+        </div>
+    </div>
+</div>
+<!-- End Content Container -->
+
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2018 TienTN & DinhNV
+            &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="https://manage-it.github.io/blog/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://manage-it.github.io/blog/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://manage-it.github.io/blog/theme/js/respond.min.js"></script>
+
+
+
 
 </body>
 </html>
