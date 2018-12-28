@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Manage IT</title><link href="https://manage-it.github.io/blog/" rel="alternate"></link><link href="https://manage-it.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>https://manage-it.github.io/blog/</id><updated>2018-12-20T10:20:00+07:00</updated><entry><title>Bò đực trong tiệm đồ sứ</title><link href="https://manage-it.github.io/blog/bo-duc-trong-tiem-do-su.html" rel="alternate"></link><published>2018-12-20T10:20:00+07:00</published><updated>2018-12-20T10:20:00+07:00</updated><author><name>TienTN</name></author><id>tag:manage-it.github.io,2018-12-20:/blog/bo-duc-trong-tiem-do-su.html</id><summary type="html">&lt;p&gt;Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà hoàn toàn quên  đi các ý niệm về chất lượng.&lt;/p&gt;</summary><content type="html">&lt;blockquote&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Manage IT</title><link href="https://manage-it.github.io/blog/" rel="alternate"></link><link href="https://manage-it.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>https://manage-it.github.io/blog/</id><updated>2018-12-26T10:20:00+07:00</updated><entry><title>Ngôi sao nhạc rock</title><link href="https://manage-it.github.io/blog/ngoi-sao-nhac-rock.html" rel="alternate"></link><published>2018-12-26T10:20:00+07:00</published><updated>2018-12-26T10:20:00+07:00</updated><author><name>TienTN</name></author><id>tag:manage-it.github.io,2018-12-26:/blog/ngoi-sao-nhac-rock.html</id><summary type="html">&lt;p&gt;Một dev quá giỏi, quá hiệu quả, quá cần thiết đến nỗi nếu họ ra đi, cả dự án sẽ sụp đổ.&lt;/p&gt;</summary><content type="html">&lt;blockquote&gt;
+&lt;p&gt;Viết tắt: "Ngôi sao"
+Một dev quá giỏi, quá hiệu quả, quá cần thiết đến nỗi nếu họ ra đi, cả dự án sẽ sụp đổ.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Có thể biến đổi thành: Dev "Kẻ bắt cóc" hoặc "Diva"&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nguy hiểm khi làm việc với: PM dạng "Người lạc quan"&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Không&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nguy hiểm với dự án: &lt;strong&gt;Cực cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
+&lt;p&gt;Trong ngành công nghiệp phần mềm, thuật ngữ "Ngôi sao" thường được giới tuyển dụng bơm thổi nhằm thu hút các dev thông qua việc thổi phồng cái tôi của các dev, ví dụ: &lt;em&gt;Chúng tôi đang tìm kiếm một vài dev Ngôi sao&lt;/em&gt; ... 
+Các dev thật sự là "Ngôi sao" rất khó kiếm, vì họ là các dev toàn hảo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Không có vấn đề nào họ không giải quyết được (và rất nhanh).&lt;/li&gt;
+&lt;li&gt;Họ làm cả đêm để kịp deadline.&lt;/li&gt;
+&lt;li&gt;Họ không tạo ra lỗi, hoặc lỗi được sửa rất nhanh.&lt;/li&gt;
+&lt;li&gt;Họ thực hiện các phần khó nhất dự án.&lt;/li&gt;
+&lt;li&gt;Họ được đa số các đồng nghiệp ưu thích.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Không may là, một khi được tuyển, họ trở nên không thể thay thế trong dự án.&lt;/p&gt;
+&lt;p&gt;Dev Ngôi sao giống như một lỗ đen đối với công việc, công việc xoay tròn quanh họ, và thực sự sẽ lao vào họ để được giải quyết. Việc này có thể cực đoan tới mức họ lấy luôn công việc của các dev làm chậm hơn nhằm đạt đúng deadline - một sự giải thoát cho mọi người. Nếu dự án đang tắc nghẽn, họ sẽ giải quyết nó. Nếu có những sự cố bất ngờ xảy ra, họ luôn biết làm gì. Họ là những người xuất sắc- và mỗi nhà tuyển dụng đều biết điều đó.&lt;/p&gt;
+&lt;p&gt;Dev Ngôi sao sẽ nhân được vài cuộc gọi từ các nhà tuyển dụng một ngày, và nó xảy ra mỗi ngày(hơi quá - ND). Điều này gây ra bởi uy tín của cao đến nỗi lan truyền khắp nơi. Các công ty luôn tìm kiếm cơ hội để câu trộm "Ngôi sao", vì họ biết họ giá trị ra sao, và trong nhiều trường hợp sẽ làm mọi thứ để có được anh ta. Bởi vậy tình huống là: có một người không thể thay thế trong dự án, đang được săn đuổi dữ dội từ các công ty khác. Nếu họ làm được điều đó, dự án rơi vào tình trạng thất bại khi ta bỏ tất cả trứng vào một giỏ.&lt;/p&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
+&lt;p&gt;Không có giải pháp cho trường hợp Dev Ngôi sao - thực ra thì bạn sẽ trở nên ngu ngốc nếu cố tìm cách thay đổi họ, vì họ là người có hiệu năng cao nhất mà bạn từng có. Tất cả những gì bạn có thể làm là làm giảm nhẹ thiệt hại từ họ bằng cách xây dựng một đội quanh họ, (với hi vọng) là họ sẽ tiếp tục tạo ra hiệu quả nếu Ngôi sao rời đi. Điều này thường có nghĩa là bạn sẽ cần vài dev để thay thế hiệu quả của một Ngôi sao, nhưng ít nhất bạn có thể vượt qua sự ra đi của họ.&lt;/p&gt;
+&lt;p&gt;Để kiểm tra xem tình huống của bạn tệ tới mức nào, hãy chú ý kỹ tới hiệu suất của dev khi họ đi nghỉ phép. Nếu Ngôi sao rời đi khoảng một tuần, tất cả hoạt động dev bị đình trệ, thì bạn cần tăng cường cố gắng để đưa các dev khác tới một level mà họ có thể giữ dự án tiếp tục khi Ngôi sao không có ở văn phòng.&lt;/p&gt;
+&lt;p&gt;Việc này có thể là thử thách nếu các dev đã quá phụ thuộc vào khả năng xử lý khó khăn của Ngôi sao, nên họ đã trở nên lười biếng và tự thỏa mãn. Có đôi chút khả năng khi Ngôi sao rời đi một cách đột ngột, các dev khác sẽ lao vào làm việc, nhưng thường thì họ luôn thần tượng Ngôi sao tới nỗi họ sẽ theo chân anh ta ra đi.  &lt;/p&gt;
+&lt;p&gt;TienTN dịch 20181226&lt;/p&gt;</content><category term="dev"></category></entry><entry><title>Bò đực trong tiệm đồ sứ</title><link href="https://manage-it.github.io/blog/bo-duc-trong-tiem-do-su.html" rel="alternate"></link><published>2018-12-20T10:20:00+07:00</published><updated>2018-12-20T10:20:00+07:00</updated><author><name>TienTN</name></author><id>tag:manage-it.github.io,2018-12-20:/blog/bo-duc-trong-tiem-do-su.html</id><summary type="html">&lt;p&gt;Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà hoàn toàn quên  đi các ý niệm về chất lượng.&lt;/p&gt;</summary><content type="html">&lt;blockquote&gt;
 &lt;p&gt;Viết tắt: "Bò đực"
 Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà hoàn toàn quên  đi các ý niệm về chất lượng.&lt;/p&gt;
 &lt;/blockquote&gt;
