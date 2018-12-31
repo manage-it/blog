@@ -1,5 +1,8 @@
 # blog
 
+## Build prequisities
+pip install pelican
+
 ## Publish
 
 build in `publish` mode and push to the branch `gh-pages`
