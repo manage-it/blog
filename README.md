@@ -1,16 +1,20 @@
 # blog
 
 ## Build prequisities
-pip install pelican
-pip install ghp-import
-git clone https://github.com/getpelican/pelican-themes.git
-git clone https://github.com/getpelican/pelican-plugins
 
-Copy theme to working folder
-pelican-themes --install ./pelican-themes/pelican-bootstrap3 --verbose
+1. pip install pelican
 
-Listing out:
-pelican-themes -l
+2. pip install ghp-import
+
+3. git clone https://github.com/getpelican/pelican-themes.git
+
+4. git clone https://github.com/getpelican/pelican-plugins
+
+5. Copy theme to working folder
+   pelican-themes --install ./pelican-themes/pelican-bootstrap3 --verbose
+
+6. Listing out:
+   pelican-themes -l
 
 ## Publish
 
