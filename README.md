@@ -1,22 +1,34 @@
 # blog
 
+https://manage-it.github.io/blog/
+
 ## Build prequisities
 
-1. pip install pelican
+```
+# clone via https or ssh, recursive for @themes @plugins
+git clone --recursive git@github.com:manage-it/blog.git
 
-2. pip install ghp-import
+cd blog/
 
-3. git clone https://github.com/getpelican/pelican-themes.git
+# create virtualenv
+# if use pyenv:
+#     pyenv virtualenv 3.6.7 venv-manage-it
+virtualenv venv-manage-it
 
-4. git clone https://github.com/getpelican/pelican-plugins
+pip install -r requirements.txt
 
-5. Copy theme to working folder
-   pelican-themes --install ./pelican-themes/pelican-bootstrap3 --verbose
 
-6. Listing out:
-   pelican-themes -l
+# Copy theme to working folder
+pelican-themes --install ./pelican-themes/pelican-bootstrap3 --verbose
 
-## Publish
+# Listing out themes:
+pelican-themes -l
+
+# Local Develop
+make html & make devserve
+```
+
+## Publish to the website
 
 build in `publish` mode and push to the branch `gh-pages`
 ```
@@ -24,26 +36,8 @@ make publish
 ghp-import output
 git push origin gh-pages
 ```
-## Local Develop
-
-```
-make html & make devserve
-```
-
 ## Change theme
 ```
 pelican-themes --install ./pelican-themes/pelican-bootstrap3 --verbose
 # edit ./pelicanconf.py THEME
 ```
-
-## From Scratch
-
-```
-git submodule add https://github.com/getpelican/pelican-themes.git
-pelican-themes --install ./pelican-themes/pelican-bootstrap3 --verbose
-pelican-themes -l
-
-git submodule add https://github.com/getpelican/pelican-plugins
-# conf plugins
-```
-
