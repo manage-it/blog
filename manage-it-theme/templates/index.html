@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block canonical_rel %}<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
+
+{% block content %}
+    {% if articles %}
+        {% for grouper, group in articles|groupby('category') %}
+            <h4>{{loop.index}}. {{ grouper }}</h4>
+            {% for article in group %}
+            <article>
+                <p style="margin-left: 10px; font-style:normal;">
+                    <a href="{{ SITEURL }}/{{ article.url }}">{{loop.index}}. {{ article.title }}</a>
+                </p>
+            </article>
+            {% endfor %}
+        {% endfor %}
+    {% endif %}
+
+{% endblock content %}
+
+{% block banner %}
+	{% include 'includes/banner.html' %}
+{% endblock %}

@@ -26,6 +26,9 @@ pelican-themes -l
 
 # Local Develop
 make html & make devserve
+
+# access
+http://localhost:8000/
 ```
 
 ## Publish to the website

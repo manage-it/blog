@@ -33,7 +33,7 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = 100
 
-THEME = 'pelican-bootstrap3'
+THEME = 'manage-it-theme'
 PLUGINS = [ "i18n_subsites" ]
 # PLUGIN_PATHS = [ "\site-packages\pelican\plugins" ]
 PLUGIN_PATHS = [ "./pelican-plugins/i18n_subsites" ]
@@ -41,3 +41,15 @@ JINJA_ENVIRONMENT = { "extensions" : [ "jinja2.ext.i18n"] }
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+MARKDOWN = {
+  'extension_configs': {
+    'markdown.extensions.toc': {
+      'title': 'Table of contents:' 
+    },
+    'markdown.extensions.codehilite': {'css_class': 'highlight'},
+    'markdown.extensions.extra': {},
+    'markdown.extensions.meta': {},
+  },
+  'output_format': 'html5',
+}
