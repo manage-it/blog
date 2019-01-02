@@ -37,6 +37,6 @@ Với sự thay đổi kỳ vọng trên, chúng ta chỉ còn có thể xác đ
 * Vô dụng với dự án
 * Anh ta không gây nguy hại cho dự án
 
-Ta sẽ xác định được là chỉ đơn giản là nên lờ đi sự tồn tại của anh ta, với ý thức rawmgf anh ta chỉ là một phần cần thiết của một cơ cấu quản lý cấp trung trong tổ chức của chúng ta.
+Ta sẽ xác định được là chỉ đơn giản là nên lờ đi sự tồn tại của anh ta, với ý thức rằng anh ta chỉ là một phần cần thiết của một cơ cấu quản lý cấp trung trong tổ chức của chúng ta.
 
  TienTN dịch 20190102
