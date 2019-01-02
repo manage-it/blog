@@ -1,7 +1,7 @@
 Title: Bò đực trong tiệm đồ sứ 
 Date: 2018-12-20 10:20
 Modified: 2018-12-20 10:20 
-Category: DEV
+Category: Developer
 Tags: dev
 Slug: bo-duc-trong-tiem-do-su
 Authors: TienTN

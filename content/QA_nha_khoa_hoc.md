@@ -1,6 +1,6 @@
 Title: Nhà khoa học
 Date: 2018-12-07
-Category: QA
+Category: Quality Assurance
 Authors: TienTN
 
 > Một QA dùng phần lớn thời gian của mình để viết tài liệu về lỗi, chứ không phải đi tìm lỗi mới.

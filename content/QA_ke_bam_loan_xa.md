@@ -1,6 +1,6 @@
 Title: Kẻ bấm loạn xạ 
 Date: 2018-12-05
-Category: QA
+Category: Quality Assurance
 Authors: TienTN
 
 >Là một QA chuyên tìm lỗi đơn giản chỉ bằng cách bấm lên bất kỳ cái gì họ thích.

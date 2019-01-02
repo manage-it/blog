@@ -1,7 +1,7 @@
 Title: Người muốn trở lại làm kỹ thuật 
 Date: 2018-12-29 10:20
 Modified: 2018-12-29 10:20 
-Category: DMGR
+Category: Dev Manager
 Tags: trở lại 
 Slug: nguoi-muon-tro-lai-lam-ky-thuat
 Authors: TienTN

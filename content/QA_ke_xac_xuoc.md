@@ -1,6 +1,6 @@
 Title: Kẻ xấc xược 
 Date: 2018-12-07
-Category: QA
+Category: Quality Assurance
 Authors: TienTN
 
 >  Là một QA mà các báo cáo bug mang tính gây hấn thụ động, khiến cho các dev cảm thấy xấc xược, thô lỗ.

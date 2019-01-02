@@ -1,6 +1,6 @@
 Title: Kẻ bắt cóc 
 Date: 2018-12-15
-Category: Dev
+Category: Developer
 
 > Là một dev đã từng việt một phần quan trọng của sản phẩm, và từ chối bất kỳ một dev nào làm việc với nó, để giữ vững tầm quan trọng không thể thay thế được của họ.
 

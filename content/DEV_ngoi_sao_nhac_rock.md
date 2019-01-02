@@ -1,7 +1,7 @@
 Title: Ngôi sao nhạc rock 
 Date: 2018-12-26 10:20
 Modified: 2018-12-26 10:20 
-Category: DEV
+Category: Developer
 Tags: dev
 Slug: ngoi-sao-nhac-rock
 Authors: TienTN

@@ -1,6 +1,6 @@
 Title: Người Lính
 Date: 2018-12-13
-Category: Dev
+Category: Developer
 Authors: TienTN
 
 > Một dev làm chính xác điều được yêu cầu mà không có chút thắc mắc, không quan tâm đúng sai.

@@ -1,6 +1,6 @@
 Title: Người bị chà đạp
 Date: 2018-12-06
-Category: QA
+Category: Quality Assurance
 Authors: TienTN
 
 >Một QA bị đánh bại bởi các dev tới mức mà họ hiếm khi dám báo cáo một lỗi, vì quá sợ sự bắt nạt của dev.

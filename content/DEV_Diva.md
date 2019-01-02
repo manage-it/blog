@@ -1,6 +1,6 @@
 Title: Diva
 Date: 2018-12-20 10:20
-Category: Dev
+Category: Developer
 Authors: TienTN
 
 > Một dev quá tin vào tính chất bất khả thay thế của bản thân và khoác lên mình một thái độ kiêu ngạo tới mức không ai quản lý nổi.

@@ -1,6 +1,6 @@
 Title: Người ước lượng thiếu cực đoan 
 Date: 2018-12-19
-Category: Dev
+Category: Developer
 Authors: TienTN
 
 _Viết tắt: Người ước lượng thiếu_

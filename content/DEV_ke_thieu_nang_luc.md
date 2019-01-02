@@ -1,6 +1,6 @@
 Title: Kẻ thiếu năng lực
 Date: 2018-12-14
-Category: Dev
+Category: Developer
 Authors: TienTN
 
 > Một dev thiếu hiểu biết hoặc thiếu kỹ năng để làm công việc viết phần mềm.

@@ -1,6 +1,6 @@
 Title: Kẻ gieo sợ hãi
 Date: 2018-12-07
-Category: QA
+Category: Quality Assurance
 Authors: TienTN
 
 > Một QA sẵn lòng tuyên bố rằng cả cái sản phẩm này là một bãi ..., vì nó có chất lượng không thể nào chấp nhận được, chỉ dựa trên những cảm nhận ban đầu của mình mà thôi.

@@ -1,6 +1,6 @@
 Title: Người ham thích công nghệ
 Date: 2018-12-12
-Category: Dev
+Category: Developer
 Authors: TienTN
 > Một dev cuồng công nghệ mới tới nỗi họ luôn tự ứng cử vào các dự án (có công nghệ mới), mà không ý thức được rằng mình có phù hợp hay không.
 

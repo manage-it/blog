@@ -1,6 +1,6 @@
 Title: Kẻ đổ lỗi 
 Date: 2018-12-09
-Category: QA
+Category: Quality Assurance
 Authors: TienTN
 
 > Một QA luôn buộc tội không kiểm tra cho dev khi anh ta tìm thấy lỗi.

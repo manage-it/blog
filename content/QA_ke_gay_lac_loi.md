@@ -1,6 +1,6 @@
 Title: Kẻ gây lạc lối 
 Date: 2018-12-07
-Category: QA
+Category: Quality Assurance
 Authors: TienTN
 
 > Một QA thường xuyên báo lỗi sai, dẫn dắt các dev vào con đường sai khi họ cố gắng tái tạo và sửa lỗi.
