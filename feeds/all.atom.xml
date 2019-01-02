@@ -8,11 +8,11 @@
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Không có một cách cố định nào để phát triển một phần mềm. Điều này dẫn tới các cuộc khẩu chiến giữa các dev mà có khi người Dev Manager sẽ phải can thiệp. Những tranh luận này có thể từ đơn giản như định dạng mã nguồn như thế nào, cho tới các cuộc tranh luận đầy ảnh hưởng như dev nào nên tham gia project. Nhà kiến tạo hòa bình, thay vì tạo điều kiện cho một cuộc tranh cãi kỹ thuật đưa ra được quyết định hữu ích, thì &lt;strong&gt;chỉ muốn dập tắt những gì họ tưởng chỉ là các tranh luận vô nghĩa&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Bị mắc kẹt giữa hai cá nhân cá tính mạnh mẽ trong một cuộc khẩu chiến đầy các điểm mâu thuẫn là một công việc căng thẳng và kiệt sức. Cần một cá tính đặc biệt để có thể kiên nhẫn lắng nghe các quan điểm khác nhau, xác nhận các hiểu lầm, mà vẫn giữ định hướng nhằm tạo ra giải pháp tốt nhất - đặc biệt là khi giải pháp không phổ biến. Nhưng phổ biến nhất là: mọi người đạt đến ngưỡng chịu đựng của họ, và chỉ đơn giản là mong cuộc tranh luận ngừng lại dù với cách nào chăng nữa - bằng một thỏa hiệp tào lao nào đó hoặc bằng một chỉ lệnh ép buộc nhằm ngưng tranh luận hoàn toàn.&lt;/p&gt;
 &lt;p&gt;Tạo điều kiện cho các cuộc tranh luận là một yếu tố quan trọng trong quản lý kỹ thuật. Sự khác biệt về level, kinh nghiệm, phương pháp, và một sự lựa chọn rộng rãi về công nghệ, chúng tạo ra một môi trường thuận lợi cho việc sinh ra các quan điểm mâu thuẫn. Những tranh cãi này có thể tăng nhiệt và ở một số trường hợp chắc chắn sẽ dẫn đến giảm sút hiệu suất công việc. Tuy nhiên, đàn áp các tranh luận này sẽ phá hủy hoàn toàn tinh thần làm việc, bóp nghẹt sự sáng tạo và dẫn đến mất mát các cơ hội cải thiện kết quả của dự án.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Dev Manager dạng "Nhà kiến tạo hòa bình" có hai điểm yếu mà chúng ta có thể sửa chữa:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Họ không thể phân biệt được sự khác biệt giữa một cuộc tranh luận vô bổ và hữu ích.&lt;/li&gt;
@@ -30,7 +30,7 @@ Một Dev Manager muốn trở lại cuộc đời lập trình, sau khi phát h
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Mỗi dev phần mềm đều phải đối diện với hai sự lựa chọn phát triển nghề nghiệp sau:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Quản lý, với hi vọng một ngày nào đó sẽ được vào ban giám đốc.&lt;/li&gt;
@@ -47,7 +47,7 @@ Một Dev Manager muốn trở lại cuộc đời lập trình, sau khi phát h
 &lt;/ul&gt;
 &lt;p&gt;Khi người Dev Manager cuối cùng nhận ra rằng họ đã quá chán cuộc đời của một nhà quản lý, và mong muốn được trở lại làm dev phần mềm, "Người muốn trở lại" &lt;strong&gt;sẽ  tìm một cơ hội để quay lại vai trò lập trình&lt;/strong&gt;. Khi cân nhắc rằng một Dev Manager tốt nhất cũng có thể lập trình, có vẻ điều này là tốt, nhưng thường là chúng ta sẽ thấy do thời gian bỏ lập trình đã quá lâu, họ sẽ không đủ kỹ năng để tái lập career path cũ.&lt;/p&gt;
 &lt;p&gt;Vấn đề sinh ra khi đội phát triển nhận ra sự thay đổi này trong định hướng nghề nghiệp của người quản lý của họ. Các dev sẽ thường kết luận là người quản lý bỏ vai trò dev vì họ cảm thấy nó quá khó, sau đó thất bại trong vai trò quản lý, và bây giờ thiếu các phẩm chất cần thiết để trở thành dev, nhưng lại mong muốn được làm dev với các quyền lợi hiện tại. Đơn giản là, họ không làm việc như một Dev Manager, và thực tế là một dev "Thiếu khả năng".&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Nếu "Người muốn trở lại" có thể nhanh chóng học lại các kỹ năng cần thiết cho một dev, việc thiếu khả năng sẽ không phải là vấn đề. Tuy nhiên chỉ có thể làm điều đó nếu các công nghệ đã không thay đổi quá nhiều kể từ khi họ làm dev. Nếu thành công, ta sẽ có một Dev Manager có khả năng lập trình tốt, và nếu họ vẫn có ý thức về các trách nhiệm quản lý của họ, họ sẽ trở nên mộ Dev Manager hiệu quả hơn nhiều.&lt;/p&gt;
 &lt;p&gt;Không may là, nếu một Dev Manager đã đợi quá lâu để tái lập định hướng nghề nghiệp của họ, họ sẽ thể sẽ rơi vào tình huống phải khởi động lại từ số không một cách chậm chạp. Đa số các côn ty sẽ không hỗ trợ việc tái đài tạo này, và thường là không chấp nhận khi họ phải trả mức lương như vậy cho Dev Manager. Điều này tạo ra một tình huống tệ hại cho mọi đối tượng liên quan, vì sẽ không có lý do rõ ràng để kết thúc hợp đồng hay thúc đẩy sự ra đi của anh ta.&lt;/p&gt;
 &lt;p&gt;Ta chỉ có một lựa chọn là đưa ra tối hậu thư cho họ:&lt;/p&gt;
@@ -66,7 +66,7 @@ Một dev quá giỏi, quá hiệu quả, quá cần thiết đến nỗi nếu 
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Không&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy hiểm với dự án: &lt;strong&gt;Cực cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Trong ngành công nghiệp phần mềm, thuật ngữ "Ngôi sao" thường được giới tuyển dụng bơm thổi nhằm thu hút các dev thông qua việc thổi phồng cái tôi của các dev, ví dụ: &lt;em&gt;Chúng tôi đang tìm kiếm một vài dev Ngôi sao&lt;/em&gt; ... 
 Các dev thật sự là "Ngôi sao" rất khó kiếm, vì họ là các dev toàn hảo:&lt;/p&gt;
 &lt;ul&gt;
@@ -79,7 +79,7 @@ Các dev thật sự là "Ngôi sao" rất khó kiếm, vì họ là các dev to
 &lt;p&gt;Không may là, một khi được tuyển, họ trở nên không thể thay thế trong dự án.&lt;/p&gt;
 &lt;p&gt;Dev Ngôi sao giống như một lỗ đen đối với công việc, công việc xoay tròn quanh họ, và thực sự sẽ lao vào họ để được giải quyết. Việc này có thể cực đoan tới mức họ lấy luôn công việc của các dev làm chậm hơn nhằm đạt đúng deadline - một sự giải thoát cho mọi người. Nếu dự án đang tắc nghẽn, họ sẽ giải quyết nó. Nếu có những sự cố bất ngờ xảy ra, họ luôn biết làm gì. Họ là những người xuất sắc- và mỗi nhà tuyển dụng đều biết điều đó.&lt;/p&gt;
 &lt;p&gt;Dev Ngôi sao sẽ nhân được vài cuộc gọi từ các nhà tuyển dụng một ngày, và nó xảy ra mỗi ngày(hơi quá - ND). Điều này gây ra bởi uy tín của cao đến nỗi lan truyền khắp nơi. Các công ty luôn tìm kiếm cơ hội để câu trộm "Ngôi sao", vì họ biết họ giá trị ra sao, và trong nhiều trường hợp sẽ làm mọi thứ để có được anh ta. Bởi vậy tình huống là: có một người không thể thay thế trong dự án, đang được săn đuổi dữ dội từ các công ty khác. Nếu họ làm được điều đó, dự án rơi vào tình trạng thất bại khi ta bỏ tất cả trứng vào một giỏ.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Không có giải pháp cho trường hợp Dev Ngôi sao - thực ra thì bạn sẽ trở nên ngu ngốc nếu cố tìm cách thay đổi họ, vì họ là người có hiệu năng cao nhất mà bạn từng có. Tất cả những gì bạn có thể làm là làm giảm nhẹ thiệt hại từ họ bằng cách xây dựng một đội quanh họ, (với hi vọng) là họ sẽ tiếp tục tạo ra hiệu quả nếu Ngôi sao rời đi. Điều này thường có nghĩa là bạn sẽ cần vài dev để thay thế hiệu quả của một Ngôi sao, nhưng ít nhất bạn có thể vượt qua sự ra đi của họ.&lt;/p&gt;
 &lt;p&gt;Để kiểm tra xem tình huống của bạn tệ tới mức nào, hãy chú ý kỹ tới hiệu suất của dev khi họ đi nghỉ phép. Nếu Ngôi sao rời đi khoảng một tuần, tất cả hoạt động dev bị đình trệ, thì bạn cần tăng cường cố gắng để đưa các dev khác tới một level mà họ có thể giữ dự án tiếp tục khi Ngôi sao không có ở văn phòng.&lt;/p&gt;
 &lt;p&gt;Việc này có thể là thử thách nếu các dev đã quá phụ thuộc vào khả năng xử lý khó khăn của Ngôi sao, nên họ đã trở nên lười biếng và tự thỏa mãn. Có đôi chút khả năng khi Ngôi sao rời đi một cách đột ngột, các dev khác sẽ lao vào làm việc, nhưng thường thì họ luôn thần tượng Ngôi sao tới nỗi họ sẽ theo chân anh ta ra đi.  &lt;/p&gt;
@@ -93,11 +93,11 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Trung bình&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Áp lực trên các nhà phát triển phần mềm là khổng lồ. &lt;em&gt;"Internet không bao giờ ngủ"&lt;/em&gt; cũng có nghĩa là các dev không bao giờ ngủ. Nhằm cố gắng thay đổi và tái cân bằng giữa cuộc sống - công việc, Bò đực trong tiệm đồ sứ chỉ muốn hoàn thành danh sách các công việc được giao càng sớm càng tốt, để trở về nhà với gia đình.&lt;/p&gt;
 &lt;p&gt;Bò đực được tạo ra bởi các áp lực dự án. Dù cho dev có khá đến mấy, nếu áp lực dự án đủ cao, họ chắc chắn sẽ ngừng test các kết quả công việc của mình, và thay vì thế dựa vào QA (xem QA "Kẻ đổ lỗi") như một phương tiện chủ yếu cho việc tìm lỗi. Thêm nữa, lấy thực dụng làm cái cớ, họ sẽ quên đi các biện pháp cần thiết như review code chéo, test tự động, tái cấu trúc ... để mã nguồn trong một trạng thái hư nát. Phần mềm thiết kế kém cỏi này sẽ tạo ra các lỗi mới, và bộ mã nền tảng sẽ nhanh chóng bị thoái hóa thành một mạch nước phun ra toàn lỗi, mà không thể nào bịt lại nổi.&lt;/p&gt;
 &lt;p&gt;Bò đực sống trong một trạng thái stress thường xuyên, đè nặng lên họ bời những người có trách nhiệm (điều hành) dự án. Họ là nạn nhân của một dự án được lên kế hoạch và vận hành kém cỏi, nhưng lại bị coi lại vấn đề. Câu nói "Vắt chanh bỏ vỏ" được dùng để đề cập tới "Bò đực", bởi vì stress thường xuyên rồi sẽ phá hủy họ, và họ sẽ ra đi hoặc bị đuổi việc vì sự kém cỏi quá rõ ràng này.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Bởi vì họ không phải là vấn đề, vấn đề có thể được điều chỉnh bởi tổ chức bằng cách thực hiện các bước sau:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Tạo ra một khoảng thời gian để lấy hơi trong dự án bằng cách cắt bớt scope hoặc đẩy deadline cao lên.&lt;/li&gt;
@@ -121,7 +121,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Ở một số cấp quản lý, để quản lý ai đó, họ phải làm những điều bạn nói. Người dev dạng Diva không thể quản lý được bởi vì ở trong thâm tâm, họ không tin là họ làm việc cho bạn, thay vì thế, bạn là người được ơn khi có cơ hội làm việc với họ. Họ tin rằng họ tuyệt đối không thể thay thế, và vì thế tin rằng mình giữ tất cả các quân bài trong bất kỳ cuộc trao đổi nào.&lt;/p&gt;
 &lt;p&gt;Ngược lại với niềm tin trong bản thân họ, người dev dạng Diva chưa chắc đã là một dev lành nghề (xem dev dạng "Ngôi sao nhạc rock"). Sự kiêu ngạo của họ dựa trên cái nhìn tự thân của họ trong tổ chức, chứ không phải khả năng kỹ thuật thật sự của họ. Kết quả là, rất bình thường khi dev Diva đánh giá quá cao trình độ của mình so với các đồng nghiệp (đồng cấp), &lt;strong&gt;mà thực tế là không phải vậy&lt;/strong&gt;. Điều này nói chung dẫn Diva tới việc bị các đồng nghiệp ghét.&lt;/p&gt;
 &lt;p&gt;Để xác định bạn có đang "sở hữu" một Diva hay không, bạn có thể dựa vào một số tiêu chí sau:
@@ -132,7 +132,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 * "Tôi sẽ đi nói với xếp của anh và xem xem họ nói gì nào"&lt;/p&gt;
 &lt;p&gt;Diva sẽ không nhận chỉ thị. Họ nhìn nhận mọi cố gắng quản lý mình như một sự sỉ nhục, vì họ cảm thấy bản thân là người có trách nhiệm hơn thông thường rất nhiều. Vấn đề tính cách của Diva thường thấy ở những dev có thời gian làm việc lâu, gắn liền với những thành công ban đầu của công ty. Và bây giờ, nhiều năm sau đó, nhờ mối quan hệ lâu năm với các nhà sáng lập công ty, họ có thể ở trên tầm chỉ trích của một quản lý cấp trung đơn thuần.&lt;/p&gt;
 &lt;p&gt;Diva không phải là một mối nguy hại vật chất với dự án, vì thường họ chỉ gây căng thẳng mà thôi. Tuy nhiên, họ gây hại bằng việc tạo ra sự tiêu cực trong tinh thần của các dev mới có hiệu suất làm việc cao hơn. Bởi vậy họ cần phải được lôi kéo trở lại quy củ để dự án diễn ra trơn tru.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Giải pháp cho Dev dạng Diva là chứng minh rằng niềm tin cốt lõi của họ là sai: &lt;strong&gt;Họ không thể bị thay thế và vì vậy muốn làm gì thì làm&lt;/strong&gt;*. Cách trực tiếp nhất để làm điều này là tuyển nhân sự thay thế công việc của họ vào làm việc gần gũi với họ. Để chuyển giao một cách thích đáng vai trò của Diva (mà thường là bị từ chối), mà sự thật (của việc chuyển giao này) là tìm cách thay thế họ, hai điều kiện sau cần được thỏa mãn:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Người thay thế phải có chất lượng tốt hơn Diva&lt;/li&gt;
@@ -155,7 +155,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề&lt;/h2&gt;
+&lt;h2&gt;Vấn đề&lt;/h2&gt;
 &lt;p&gt;Khi một lỗi được tìm ra, điều quan trọng là nó được báo cáo chính xác và sau đó nhanh chóng giao cho dev có trách nhiệm sửa ngay. Tuy nhiên, cũng có những QT tester tìm và báo cáo lỗi nhanh chóng, vượt quá tốc độ sửa lỗi của team dev, tạo ra một danh sách kéo dài mãi của những báo lỗi không thể kết thúc.&lt;/p&gt;
 &lt;p&gt;Trên bề mặt, điều này có thể gây hiểu lầm là sản phẩm có vấn đề nghiêm trọng về chất lượng, tuy nhiên, không phải lúc nào cũng như vậy. Sẽ là sự đối lập khi ta so với một QA tester bình thường, người test một hệ thống với rất nhiều lỗi, QA loại Vòi nước cứu hỏa là người tạo ra một cơn bão các lỗi với một hoặc tất cả các đặc tính sau:&lt;/p&gt;
 &lt;ul&gt;
@@ -165,7 +165,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;/ul&gt;
 &lt;p&gt;Vòi nước cứu hỏa thường sinh ra bởi các áp lực trực tiếp hoặc gián tiếp của tổ chức: &lt;strong&gt;Bạn càng tìm được nhiều lỗi thì bạn càng được đánh giá cao&lt;/strong&gt;. Kết quả, những người QA tester thật sự, mẫn cán tra tìm nguyên nhân chính của lỗi, và báo cáo chúng một cách rõ ràng và chính xác, tỏ ra không hiệu quả bằng các Vòi nước cứu hỏa - những người chỉ đơn thuần nhằm vào số lượng lỗi với một thời gian giới hạn.&lt;/p&gt;
 &lt;p&gt;Vòi nước cứu hỏa gây ra sự hoảng loạn trong một dự án, vì họ tạo ra ấn tượng rằng sản phẩm được xây dựng kém, và dự án đang trễ tiến độ. Hậu quả họ gây ra cho tinh thần của đội dự án có thể là ngay lập tức và rất bi thảm, khiến cho đội dev đầu hàng trong quá trình họ chờ đợi một phút nghỉ ngơi giữa cơn lũ các báo cáo lỗi.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Trước khi ta thực hiện bất kỳ một cố gắng nào để sửa chữa một QA Vòi nước cứu hỏa, việc nhận diện ai là Vòi nước cứu hỏa thực sự giữa những người QA tester đang làm việc hiệu quả, là rất thiết yếu. Chỉ dấu rõ ràng nhất là các phàn nàn kiểu như sau của dev:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Đa số lỗi là trùng lắp&lt;/li&gt;
@@ -188,7 +188,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Không&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Nếu được lựa chọn, đa số các quản lý dự án thà chọn các dev ước lượng dư thừa hơn là những người ước lượng thiếu. Nguồn gốc của vấn đề là mặc dù những người ước lượng dư thừa là họ có thể gây tốn thời gian, nhưng ít nhất ta có thể xác định mốc thời gian cho công việc. Người ước lượng dư thừa rất ý thức được vấn đề này, và &lt;strong&gt;lợi dụng triệt để nó bằng cách xin càng nhiều thời gian càng tốt&lt;/strong&gt;, thay vì ngồi cân nhắc xem thực sự cần bao nhiêu thời gian để làm công việc được giao một cách thực tế.&lt;/p&gt;
 &lt;p&gt;Những Người ước lượng dư thừa đôi khi không thể phát hiện. Họ có thể bị nhầm là trưởng thành, có trách nhiệm, và khác biệt hẳn với các đồng nghiệp dev khác, họ không bao giờ trễ deadline. Tuy nhiên có một vài dấu hiệu nhận dạng như sau:&lt;/p&gt;
 &lt;ul&gt;
@@ -197,7 +197,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;Trong trường hợp họ nhanh chóng xác nhận với một ngày cho trước như vậy, nếu bạn rút ngắn thời hạn đi một chút, họ cũng sẽ đồng ý ngay. Việc này có nghĩa là khoảng dư ra giữa hai mốc thời gian thật ra không cần thiết cho việc hoàn thành.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Những Người ước lượng dư thừa làm cho công ty kém cạnh tranh. Nếu bạn đang chạy đua với một đối thủ cạnh tranh để đưa ra tính năng mới, bạn sẽ luôn là kẻ chậm chân.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Người ước lượng dư thừa được tạo ra trong một tổ chức luôn trừng phạt các dev khi họ trễ hạn. Phản ứng tự nhiên của họ là xin thời gian càng nhiều càng tốt để giảm thiểu khả năng trễ hạn. Điều này có vẻ dễ sửa chữa, nhưng có 3 điều sẽ chống lại bạn:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -234,11 +234,11 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Trung bình&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="van-e"&gt;Vấn đề:&lt;/h1&gt;
+&lt;h1&gt;Vấn đề:&lt;/h1&gt;
 &lt;p&gt;Sự định lượng thời gian không đầy đủ là một hiện tượng trong ngành công nghiệp phần mềm, nó phổ biển tới nỗi mọi người thậm chí còn không nghĩ đó là một vấn đề. Mỗi người, dù ở đâu, luôn định lượng thiếu hụt thời gian cho các task, và nó được chấp nhận như là một cách làm việc. Tuy nhiên, Người ước lượng thiếu đưa vấn đề này lên một tầm cao mới khi: anh ta / chị ta hầu như &lt;strong&gt;luôn luôn&lt;/strong&gt; trễ deadline.&lt;/p&gt;
 &lt;p&gt;Ảnh hưởng của đối tượng này lên dự án đơn giản có thể đoán được: Không có các định lượng thời gian tốt,ta không thể lập kế hoạch cho tương lai. Các đợt release phần mềm đôi khi bị gắn chặt với các giao ước trong hợp đồng của khách hàng hoặc đối tác, nhằm đảm bảo lịch triển khai nghiệp vụ kinh doanh. Một số sai lệch nhỏ có thể được lường trước, và cần nhìn nhận là cả ngành công nghiệp phần mềm được xây dựng xung quanh một thực tế là: không ai có thể dự đoán chính xác việc viết phần mềm sẽ kéo dài bao lâu. Người ước lượng thiếu lợi dụng điều này để cho phép mình chậm trễ hàng tuần liền khi giao kết quả, trong khi, cam kết ban đầu là chỉ vài ngày; thậm chí tệ hơn: chậm trễ hàng tháng dù trước đó hứa là vài tuần. &lt;/p&gt;
 &lt;p&gt;Người ước lượng thiếu cơ bản không bao giờ thừa nhận những ảnh hưởng tiêu cực của sự chậm trễ tới này lên thành bại của toàn dự án. Họ cũng có thể cho rằng bản thân việc dự đoán là một công việc vô nghĩa, vì họ tin rằng không có gì có thể dự đoán chính xác được. Theo cách này, họ có thể trở nên rất chán nản khi được yêu cầu dự đoán, hoặc chỉ ngẫu nhiên đưa ra một con số nào đó khi được hỏi một việc sẽ làm trong bao lâu, mà không cần bất cứ sự phân tích nào. &lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Thật may mắn là, Người ước lượng thiếu có thể sửa chữa được, nhưng ta cần làm theo vài chỉ dẫn dưới đây:
 &lt;em&gt; Họ chỉ nên được yêu cầu dự đoán trong các phần mã nguồn mà họ quen thuộc.
 &lt;/em&gt; Tương tự, họ chỉ nên dự đoán khi sử dụng các công nghệ quen thuộc.
@@ -265,11 +265,11 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Bất kỳ ai có những trách nhiệm tài chính, việc gìn giữ công việc là điều quan trọng. Thêm vào đó, bất kỳ ai mong muốn ít bị áp lực trong công việc, được làm việc với những thứ quen thuộc dễ chịu hơn rất nhiều. Hai mong mỏi này kết hợp với nhau trong Kẻ bắt cóc, một dev &lt;strong&gt;đã viết ra và hoàn toàn sở hữu một thành phần quan trọng của sản phẩm, và từ chối làm việc với bất cứ gì khác ngoài nó&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Kẻ bắt cóc thường là một kỹ sư phần mềm kém, và - thật mỉa mai, điều này biến thành một lợi thế: Phần mềm của họ &lt;strong&gt;không ai hiểu nổi trừ họ&lt;/strong&gt;, và vì vậy các dev khác bị dọa sợ không dám lội vào vũng bùn là mã nguồn của họ viết ra, sợ rằng sẽ không thể làm được gì tốt đẹp với nó. Vì thế, các công việc mới liên quan đến phần quan trọng này của hệ thống, sẽ phải thông qua Kẻ bắt cóc, và vòng xoay tồi tệ cứ thế tiếp diễn.&lt;/p&gt;
 &lt;p&gt;Kẻ bắt cóc luôn ở thế phòng thủ và sẵn sàng đương đầu, hoàn toàn né tránh sự chỉ trích hay hợp tác nào liên quan tới phần họ sở hữu. Nếu bị dồn vào chân tường, họ sẽ dọa rời bỏ, và bởi vì không có dev nào khác muốn làm việc với phần sản phẩm thiết kế và xây dựng kém như thế, sẽ không ai vạch trần việc làm bộ làm tịch này của họ. Việc đó khiến họ trở thành điểm nghẽn của dự án, vì cả số phận của dự án phụ thuộc mong muốn của họ, cũng như khả năng hoàn thành công việc của họ.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Kẻ bắt cóc càng nguy hiểm bao nhiêu thì giải pháp càng rõ ràng bấy nhiêu: Hãy đưa 2 hoặc nhiều dev vào chịu trách nhiệm phần sản phẩm đó, và chuyển Kẻ bắt cóc sang làm một phần sản phẩm mới. Sẽ có một thời gian không hiệu quả khi các dev mới cố gắng hiểu và thiết kế lại phần mã nguồn đã bị bắt cóc, nhưng khi thời gian đó trôi qua, Kẻ bắt cóc sẽ hoàn toàn bị vô hiệu hóa và không tạo ra vấn đề nào nữa.&lt;/p&gt;
 &lt;p&gt;TienTN dịch 20181215 &lt;/p&gt;</content></entry><entry><title>Kẻ thiếu năng lực</title><link href="https://manage-it.github.io/blog/ke-thieu-nang-luc.html" rel="alternate"></link><published>2018-12-14T00:00:00+07:00</published><updated>2018-12-14T00:00:00+07:00</updated><author><name>TienTN</name></author><id>tag:manage-it.github.io,2018-12-14:/blog/ke-thieu-nang-luc.html</id><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;Một dev thiếu hiểu biết hoặc thiếu kỹ năng để làm công việc viết phần mềm.&lt;/p&gt;
@@ -286,7 +286,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Không&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Rất cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Không phải tất cả mọi người đều có thể trở thành nhà điền kinh chuyên nghiệp, một nhạc sĩ, hay bác sĩ ... cũng vậy, có những người đơn giản không được tạo ra để làm dev phần mềm. Những dev Kẻ thiếu năng lực thường bị từ chối, nhưng lại khước từ việc rời bỏ nghề nghiệp của mình, do trên thị trường có quá nhiều cơ hội khác với lương cao.&lt;/p&gt;
 &lt;p&gt;Tìm ra một Kẻ thiếu năng lực có thể là điều khó khăn với những quản lý không hiểu kỹ thuật, nhưng có một số chỉ dấu như sau:&lt;/p&gt;
 &lt;ul&gt;
@@ -300,7 +300,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;Họ có xu hướng xin làm quản lý để được "sử dụng hiệu quả hơn" (xem "Người thiết tha được quản lý")&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Vấn đề của Kẻ thiếu năng lực đang đầu độc ngành công nghiệp phần mềm. Nó là một trường hợp đơn giản gây ra bởi cung và cầu, khi mà ta không có nhiều dev được xác định là đủ năng lực để mà lựa chọn.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Khi người quản lý nhận ra rằng họ có thể đang làm việc với Kẻ thiếu năng lực, cảm giác thương hại tự nhiên sẽ thường dẫn dắt họ tới việc chỉ giao những công việc ít khó khăn. Tuy nhiên, giống như một người không thể chỉ giải phẫu tim một nửa, hoặc một phi công chỉ học một nửa, chúng ta cũng không thể là một dev chỉ với một vài phần năng lực. Nếu bạn thiếu  năng lực để làm dev phần mềm, vậy thì bạn cũng chẳng thể làm các công việc đơn giản một cách tốt đẹp.&lt;/p&gt;
 &lt;p&gt;Khi các công việc đơn giản không còn nữa, việc chi tiền ra để đào tạo là bước thông thường hay được thực hiện. Vấn đề cơ bản ở đây là: nếu Kẻ thiếu năng lực có khả năng học về phát triển phần mềm, họ đáng ra đã phải đạt đủ trình độ rồi - điều mà các đồng nghiệp khá hơn làm được, bởi vì các dev có năng lực sẽ tự đào tạo bản thân.&lt;/p&gt;
 &lt;p&gt;Có một suy nghĩ rằng có một dev không được hiệu quả cho lắm trong đội ngũ, cũng không hại gì mấy, tuy nhiên, nó còn xa mới là sự thật. Những dev kiểu này tạo ra các hậu quả như sau:&lt;/p&gt;
@@ -333,7 +333,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Không&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Không&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Khi một dev lần đầu tiên vào công ty, họ có xu hướng tràn đầy nhiệt tình, mong muốn được thể hiện bản thân với nhà tuyển dụng. Tuy nhiên, qua thời gian, nhiệt tình đó thường bị thay thế bởi sự tự mãn, khi họ tin răng thời gian làm việc của mình trong công ty đã cho họ một số quyền hạn. Một trong số đó là họ tin răng mình có thể tiếp tục bảo trì hệ thống mà mình đã xây dựng,  và không muốn làm việc trên các thành phần khác của hệ thống.&lt;/p&gt;
 &lt;p&gt;Vấn đề với Người bảo trì là một câu hỏi về quy mô: họ đơn giản không phải là một phần của tập hợp nhân lực mà bạn có thể lấy ra để làm công việc mới. Vào thời điểm cần nhân lực, sẽ có một câu hỏi phát sinh, rằng bạn có thể chịu được chi phí giữ họ trong đội ngũ hay không - mà cuối cùng sẽ dẫn đến câu hỏi: bạn có thể kiếm được dev khác để làm công việc bảo trì họ đang làm hay không? Thường khó thuyết phục các dev khác làm việc này vì hai lý do:&lt;/p&gt;
 &lt;ul&gt;
@@ -341,7 +341,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;Bảo trì là một công việc &lt;em&gt;đường cùng&lt;/em&gt; trong sự nghiệp của một dev, vì bạn sẽ không làm được gì mới hoặc có thể đổi mới bất kỳ cái gì để được ghi nhận.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Đây là lý do tại sao các dev Người bảo trì dừng chân tại công ty một thời gian dài. Thường là họ ở công ty từ những ngày đầu tiên, và từng là các tác giả của các phần mềm mà nhờ chúng công ty đã được xây dựng. Khi công ty phát triển, họ không được phát triển trở thành quản lý, mà cũng chẳng học được kỹ năng gì mới, hay hiểu biết thêm các thành phần mới của hệ thống. Điều đó khiến họ cố thủ trong phần mềm duy nhất mà họ biết.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Dev Người bảo trì không thật sự tạo ra vấn đề nếu bạn hiểu rằng họ không phải tài nguyên cho một dự án mới. Tối đa chỉ nên yêu cầu họ sửa lỗi và hiện thực các tính năng cải tiến nhỏ. Chỉ có một vấn đề xảy ra khi họ từ chối bất kỳ ai khác muốn học hệ thống của họ (xem dev "Kẻ bắt cóc").&lt;/p&gt;
 &lt;p&gt;Không có cách nào sửa chữa các dev Người bảo trì này, vì họ không có nhu cầu muốn sửa chữa. Họ có tâm trạng trong phát triển phần mềm giống như các công nhân nhà máy: họ muốn có một chuỗi ngày giống nhau trong suốt sự nghiệp, sau đó nghỉ hưu. Thái độ này không phải thứ có thể phá vỡ, vì nó ăn sâu vào con người họ.&lt;/p&gt;
 &lt;p&gt;Một trong những cách khiến thái độ này thay đổi, nếu họ trải nghiệm một sự kiện nào đó trong đời (lập gia đình, có con, mua nhà v.v.), khiến họ  phải tìm cách kiếm thêm tiền, và rồi họ nhận ra rằng bảo trì một phần mềm cũ sẽ không tạo ra những cơ hội thăng tiến. Bất hạnh là, đây không phải điều mà bạn có khả năng điều khiển được.&lt;/p&gt;
@@ -358,7 +358,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Không&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Rất cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Là một kỹ sư phần mềm chuyên nghiệp, cần có hai lực cạnh tranh thường xuyên:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -376,7 +376,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;p&gt;Dev Người lý tưởng hóa thường là những người rất thông minh, có kinh nghiệm, chuyên nghiệp. Thực tế là, họ hoàn toàn hiểu họ đang nói về điều gì. Họ thực sự biết cách làm ra những phần mềm lý tưởng, và nếu được cho đủ thời gian, họ có thể tạo ra hệ thống hoàn hảo. Điểm yếu của họ là &lt;strong&gt;họ tin rằng họ có đủ thời gian cho cả thế giới&lt;/strong&gt; và hoàn toàn không có giới hạn, dẫu răng điều này không thực tế chút nào.&lt;/p&gt;
 &lt;p&gt;Thay vì thực hiện những thỏa hiệp thông minh dựa trên các mục tiêu kinh doanh và các ràng buộc hạn chế, họ lại tập trung vào việc xây dựng một hệ thống hoàn hảo mà họ nghĩ là nó tốt nhất cho nghiệp vụ kinh doanh. Đừng nhầm rằng họ giống với những người mới ra trường, muốn phát triển cái gì đó "tinh xảo" hay "ngon lành". Họ tin tưởng một cách thành thật rằng hệ thống họ đang xây dựng là tốt nhất cho tương lai công ty. Chính sự kiên định của lòng tin này sẽ khiến rất khó để sửa đổi được họ.&lt;/p&gt;
 &lt;p&gt;Về mặt nào đó, họ nguy hiểm với dự án, vì họ thường thống trị trên các dev chính khác, vì họ là dev của các dev: họ là những gì lý tưởng mà các dev phấn đấu để trở thành, và vì vậy, họ dễ dàng tập hợp các dev dưới cờ của mình, và tất cả các dev đều muốn tự hào về phần mềm mình viết ra. Theo cách này, &lt;strong&gt;họ bắt cóc cả đội dev làm con tin&lt;/strong&gt;, và bạn thì đang nằm dưới sự ban ơn của họ. Nếu bạn may mắn, họ có thể bắt đầu tạo ra các giá trị kinh doanh, nhưng đó chỉ là sự tình cờ trên con đường tạo ra một phần mềm lý tưởng. Về bản chất thì bạn sẽ chỉ có được các giá trị kinh doanh khi họ làm xong việc, và họ thì không thể cho bạn biết là khi nào xong, hoặc thực ra có bao nhiêu giá trị kinh doanh bạn sẽ nhận được. Thật thà mà nói, họ không hề quan tâm tới việc làm xong, bởi vì bản thân quá trình - chứ không phải là mục đích - đã làm họ thỏa mãn rồi.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Có thể tóm tắt lại tính cách của một dev Người lý tưởng hóa:
 &lt;em&gt; Thông minh cao, kinh nghiệm, chuyên nghiệp
 &lt;/em&gt; Thực sự tin tưởng rằng hệ thống họ đang xây dựng là tốt nhất cho tương lai công ty&lt;/p&gt;
@@ -420,11 +420,11 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Không&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Làm một kỹ sư phần mềm lành nghề là một công việc khó khăn. Nó đòi hỏi các kỹ năng giải quyết vấn đề nhanh chóng, một lượng kiến thức lớn, và một khối lượng các kinh nghiệm trong thực tế còn lớn hơn thế. Không giống các nghề chuyên môn khác, các kiến thức và kinh nghiệm này nhanh chóng trở nên lạc hậu theo thời gian (đôi khi chỉ tính bằng tháng). Điều này đòi hỏi phải cập nhật liên tục các kỹ năng, công nghệ, công cụ mới. Người mong được quản lý &lt;strong&gt;muốn thoát khỏi vòng quay này, và họ thấy quản lý là con đường thoát ra&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Thông thường, các yêu cầu lập trình đối với một nhà quản lý phát triển (Dev Manager) là ít hơn so với một dev toàn thời gian. Thời gian được dùng cho việc họp hành, gửi mail, hoặc đi vòng vòng và nói chuyện với mọi người. Các nhà quản lý cũng có xu hướng kiếm được nhiều tiền hơi những người lập trình, và quản lý lại đi kèm với quyền lực. Đây là một lựa chọn rõ ràng cho các dev muốn thoát khỏi công việc viết phần mềm.&lt;/p&gt;
 &lt;p&gt;Vấn đề với một dev dạng này là họ làm việc để thể hiện các kỹ năng quản lý của mình, với hi vọng được thăng tiến, &lt;strong&gt;thay vì tập trung vào viết phần mềm&lt;/strong&gt;. Để thực hành các kỹ năng quản lý, anh ta cỗ gắng quản lý các đồng nghiệp bằng cách giao task, lớn tiếng trong các buổi họp, và thường tạo sức ép để được tham gia vào các quyết định có tính chiến lược hơn. Cách thể hiện này sẽ làm cho họ khiến đồng nghiệp ngang cấp không hài lòng, đồng thời các quản lý khác cũng không thoải mái do anh ta đe dọa sự an toàn công việc của họ.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Không thể thay đổi được Người mong được quản lý, vì họ đã lựa chọn một hướng phát triển rõ ràng. Một khi quyết định đã được tạo ra, không còn đường quay lại. Bạn không thể làm cho họ lại thích viết phần mềm. Ngay cả khi bạn ép họ quay lại vai trò viết phần mềm toàn thời gian, bạn sẽ phát hiện ra lý do họ muốn trở thành nhà quản lý: họ không giỏi viết phần mềm. Vấn đề khó thay đổi của tình huống này là điều khiến tại sao rất nhiều Người mong được quản lý luôn được thỏa nguyện, được thăng cấp trở thành quản lý, ngay khi có một chỗ cho họ.&lt;/p&gt;
 &lt;p&gt;Nói chung, dev ở vị thế này tạo ra một ít tổn hại cho dự án vì hiệu quả công việc của họ thấp, và họ ít có uy tín nhiều giữa các dev và ngay cả người quản lý. Thường thì các cá nhân này sẽ có một đường hướng công việc khá lộn xộn trong tổ chức, &lt;strong&gt;do quản lý cấp trên cố gắng tìm ra một cách sử dụng họ cho hiệu quả&lt;/strong&gt;. Với khả năng như vậy, họ có thể là một mối nguy nếu các nhiệm vụ trọng yếu được giao vào tay của họ, nhưng may mắn là điều này hoàn toàn có thể tránh được, họ có thể tồn tại một cách an toàn chỉ với một chút phiền toái nhỏ.&lt;/p&gt;
 &lt;p&gt;TienTN dịch 20181223    &lt;/p&gt;</content></entry><entry><title>Người Lính</title><link href="https://manage-it.github.io/blog/nguoi-linh.html" rel="alternate"></link><published>2018-12-13T00:00:00+07:00</published><updated>2018-12-13T00:00:00+07:00</updated><author><name>TienTN</name></author><id>tag:manage-it.github.io,2018-12-13:/blog/nguoi-linh.html</id><summary type="html">&lt;blockquote&gt;
@@ -443,7 +443,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Không&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="van-e"&gt;Vấn đề:&lt;/h1&gt;
+&lt;h1&gt;Vấn đề:&lt;/h1&gt;
 &lt;p&gt;Từ góc nhìn quản lý, còn gì tốt hơn một dev làm chính xác những gì được yêu cầu? Thực vậy, vấn đề chính đối với Dev Diva là họ sẽ không làm những điều được yêu cầu, vậy nên chắc chắn là một dev tuân phục hoàn toàn là một ơn lành đối với dự án. Không may là, Người Lính mang theo nghĩa vụ của mình: họ sẵn sàng thực thi nhiệm vụ hành quân xuống một vách đá, nếu được yêu cầu, và vì thế, kéo theo cả dự án theo họ.&lt;/p&gt;
 &lt;p&gt;Dev Người Lính có ở đủ mọi cấp độ - Từ Kẻ thiếu khả năng - đến Ngôi sao nhạc rock, và bất kỳ cấp độ nào ở giữa. Đặc điểm chính của Người Lính là sự phục tùng của họ: Họ sẽ luôn làm mọi điều mà bạn yêu cầu mà không hỏi han. Rất dễ nhầm tưởng điều này là do có một khả năng lãnh đạo xuất chúng đang tạo ra sự thúc đẩy cho đoàn quân, nhưng thực tế là, khả năng lãnh đạo tuyệt vời là rất hiếm.&lt;/p&gt;
 &lt;p&gt;Có nhiều con đường dẫn dắt tới việc tạo ra các dev Người Lính:&lt;/p&gt;
@@ -458,7 +458,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;Họ thực sự là những người cựu binh, và mang cái tinh thần đó vào nghề nghiệp mới của mình.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Và vì các lý do trên, kết quả là, cho dù lúc đầu ta có thể thấy dễ chịu tới mức nào chăng nữa, rất hiếm khi việc có trong tay một Dev Người Lính sẽ mang lại điều tốt đẹp cho bạn.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Nếu bạn đang hướng dẫn họ làm điều đúng, Người Lính có thể không gây ra rắc rối gì cho dự án cả. Trong thực tế, với sự lãnh đạo tốt, sẽ rất hiệu quả khi ta có một số thành viên là Người Lính. Tuy nhiên, nếu bạn cần sự phản hồi từ các dev của mình, nhằm giúp phối hợp để dẫn hướng cho dự án, bạn sẽ không thể đạt được gì từ họ. Điều này dẫn bạn đến một tình huống, khi mà bạn cần lắng nghe những ý kiến để bổ sung cho khả năng tự nhận biết của bản thân, thì trong tình huống đó, Người Lính sẽ không nói gì cho bạn đâu!&lt;/p&gt;
 &lt;p&gt;Nếu bạn có thể xác định được nguồn gốc của việc tại sao Người Lính lại tuân phục mà không hề hỏi han, bạn sẽ có một cơ hội cho việc sửa chữa. Tuy nhiên, bởi tính cách tự nhiên của mình, họ sẽ không mở lòng cho bạn, về lý do tại sao họ lại trở thành như vậy. Sự giao tiếp thường sẽ bị đóng lại, và họ sẽ chỉ muốn đàm thoại trên những đề mục mà bạn yêu cầu họ nói. Nếu bạn gây áp lực để cố gắng biết được có vấn đề gì đang xảy ra, câu trả lời đa số sẽ là "Không có gì", dù đó không phải cảm xúc thực sự của họ.&lt;/p&gt;
 &lt;p&gt;Hi vọng lớn nhất của bạn là góp nhặt từ những người mà họ có tâm sự về những vấn đề thực sự, nhưng việc này lại cần những người được họ tin tưởng phản bội lại họ, mà điều này thì rất khó xảy ra. Ngay cả khi nó diễn ra, và bạn tìm được vấn đề thực sự của họ, bạn vẫn phải hi vọng là chính, rằng Người Lính sẽ thay đổi thói quen của mình, bởi chỉ có họ mới có thể thay đổi được bản thân.&lt;/p&gt;
@@ -477,11 +477,11 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Để đưa một sản phẩm thành công lên môi trường production, ta cần có những sự lựa chọn công nghệ. Những lựa chọn này cần phải thực hiện một cách cẩn thận, và với một sự cân nhắc kỹ càng theo quan điểm đáp ứng các vấn đề nghiệp vụ cụ thể. Dev Người ham thích công nghệ, thay vì thế, lại chỉ thích chơi vòng vòng với các công nghệ mới mà thôi.&lt;/p&gt;
 &lt;p&gt;Tất cả các dev đều là Người ham thích công nghệ ở mức nào đó, vì họ buộc phải giữ cho các kỹ năng của mình được cập nhật. Tuy nhiên,  khi một dev tự làm rối tung trách nhiệm về sự chuyên nghiệp của mình, từ việc lựa chọn các công nghệ có tên rất kêu, đồng thời với mong muốn cá nhân của họ trong việc học hỏi điều mới lạ, khi đó, bạn sẽ kết thúc trong một đống công nghệ lệch lạc rất xa những gì mà nghiệp vụ cần.&lt;/p&gt;
 &lt;p&gt;Dev Người ham thích công nghệ thường rất dễ thấy trong đám đông. Họ thường xuyên  công khai bênh vực, tán thành một công nghệ mới, nhưng với những lý lẽ(kiến thức) khá nông cạn. Họ cũng thường bất thình lình đổi từ công nghệ này qua công nghệ khác giữa lúc phát triển, mà không nói với ai, khiến các dev khác phải bất ngờ. Trong nhiều trường hợp, nó có thể là một giải pháp cao cấp cho một vấn đề cụ thể mà họ đang đối mặt. Nhưng công nghệ này, vì chưa vượt qua quá trình kiểm nghiệm kỹ càng, nên trong thực tế, xét về tổng thể, lại chẳng phù hợp nhiều lắm với dự án.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Mặc dù các dev dạng này có thể tỏ ra khó chịu, nhưng việc sửa chữa họ khá đơn giản nếu công ty đã thiết lập ra tiêu chuẩn về một nền tảng các công nghệ được ứng dụng. Sau đó, ta chỉ cần điều chỉnh các dev khi họ lệch lạc khỏi nền tảng này. Nếu bạn chưa có một nền tảng, hãy làm càng sớm càng tốt. Chớ nên đưa ra một cách chậm trễ, đặc biệt là khi các dev dạng này đã tạo ra nhiều vấn đề.&lt;/p&gt;
 &lt;p&gt;Nói cho một dev Ham thích công nghệ biết rằng họ không thể giới thiệu công nghệ mới của họ, đa phần sẽ làm tổn thương tinh thần, nhưng tinh thần đó có thể được sửa chữa nhanh chóng bằng cách nhờ họ tạo ra một bản trình diễn công nghệ mới này. Đây là một lối thoát hữu ích, vì cả đội có thể thảo luận chung với nhau về nó, và quyết định xem nền tảng công nghệ chung của tổ chức có cần thay đổi sau buổi trình diễn hay không. Đa số dev sẽ thỏa mãn một cách đơn giản chỉ bằng việc họ có một ngày như vậy, cho dù họ không thích quyết định cuối cùng.&lt;/p&gt;
 &lt;p&gt;TienTN dịch 20181212&lt;/p&gt;</content></entry><entry><title>Kẻ đổ lỗi</title><link href="https://manage-it.github.io/blog/ke-do-loi.html" rel="alternate"></link><published>2018-12-09T00:00:00+07:00</published><updated>2018-12-09T00:00:00+07:00</updated><author><name>TienTN</name></author><id>tag:manage-it.github.io,2018-12-09:/blog/ke-do-loi.html</id><summary type="html">&lt;blockquote&gt;
@@ -493,7 +493,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề …&lt;/h2&gt;</summary><content type="html">&lt;blockquote&gt;
+&lt;h2&gt;Vấn đề …&lt;/h2&gt;</summary><content type="html">&lt;blockquote&gt;
 &lt;p&gt;Một QA luôn buộc tội không kiểm tra cho dev khi anh ta tìm thấy lỗi.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
@@ -502,7 +502,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Về lý thuyết, mỗi lỗi có thể đã được tìm thấy và sửa chữa bởi một dev trước khi QA tìm ra và báo cáo nó. Điều này khiến một số QA tester nhận định rằng mỗi lỗi tìm thấy là một bằng chứng mới về việc dev không kiểm tra đầy đủ kết quả của họ. Đây là một thực tế, nó khiến Kẻ đổ lỗi càng trở nên nặng lời với những đánh giá mất uy tín về phía nhóm dev.&lt;/p&gt;
 &lt;p&gt;Kẻ đổ lỗi là nguyên nhân chính xói mòn tinh thần của dự án. Thay vì giúp cải thiện chất lượng sản phẩm, họ tập trung vào việc chứng minh đội dev không làm đúng công việc của mình. Mỗi lỗi, thay vì được xử lý như bình thường, thì lại được gom góp vào tập hợp của những bằng chứng cho thấy các dev đang lạm dụng QA để tìm các lỗi mà đáng ra họ phải thấy trước.&lt;/p&gt;
 &lt;p&gt;Đáng buồn là, kẻ đổ lỗi thường được tạo ra trong tổ chức thông qua một quy trình dễ đoán:&lt;/p&gt;
@@ -511,7 +511,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;Những người QA tester bị quy trách nhiệm vì không tìm thấy lỗi.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Điều này xảy ra khá phổ biến, và vì vậy cũng dễ hiểu rằng người QA tester sẽ cố tự bảo vệ mình bằng những lý lẽ khó tranh cãi.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Trước khi những nỗ lực được thực thi để sửa chữa Kẻ đổ lỗi, tổ chức cần ngưng ngay việc đổ lỗi cho QA khi có lỗi nảy sinh trên môi trường chạy chính thức. Ai đang làm việc đó, nên được huấn luyện phương pháp làm sao để giúp đỡ cả tổ chức cải thiện chất lượng,  thay vì đổ lỗi cho QA.&lt;/p&gt;
 &lt;p&gt;Một khi tổ chức đã ngưng được việc đổ lỗi cho QA khi bỏ sót lỗi, Kẻ đổ lỗi nên được (hỗ trợ) nhân diện (những vấn đề của mình), bằng cách giúp họ thay đổi góc nhìn, cũng như thay đổi thái độ:&lt;/p&gt;
 &lt;p&gt;Sự thay đổi góc nhìn để hiểu ddowcj rằng các dev chỉ là con người, và họ có xu hướng mắc sai lầm. Để bù đắp cái đặc tính con người này của dev, đội QA hoạt động như là một sự bảo vệ giúp ngăn ngừa những sai lầm đó ảnh hưởng lên khách hàng. Thêm vào đó, vì sự phát triển phần mềm vốn khá tẻ nhạt, rất dễ để một dev không nhìn thấy tổng thể vấn đề, vì họ quá tập trung vào giải quyết một vấn đề cụ thể, nên quên mất không kiểm tra một vấn đề nào đó rõ ràng là cần thiết.&lt;/p&gt;
@@ -532,7 +532,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy hiểm với dự án: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Báo cáo một lỗi cần các yếu tố sau:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -564,7 +564,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;Nếu các bước tái tạo khó làm theo, hoặc không chính xác, dev tốn thời gian cố gắng diễn giải chúng, hoặc có thể tuyên bố là không có lỗi trong khi thực sự là có.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Lâu lâu việc gây lạc lối cho một dev sẽ xảy ra, vì con người có sai lầm, và điều này luôn được dự phòng. Tuy nhiên, kẻ  gây lạc lối làm việc này như một thói quen, tạo ra một sự thất vọng tăng dần trong các dev. Nếu ta vẫn cho phép nó tiếp tục, người QA tester này sẽ mất uy tín với dev, và các lỗi thật sự họ tìm ra sẽ không được sửa, bởi vì các dev từ chối các báo cáo bug của người này.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Kẻ gây lạc lối thường khá trong việc tìm lỗi, họ chỉ kém trong việc tài liệu hóa nó. Vì vậy, việc huấn luyện họ về cách báo cáo một lỗi theo cách chính thống là đáng giá cho sự cố gắng của chúng ta.&lt;/p&gt;
 &lt;p&gt;Một trong những biện pháp giúp Kẻ gây lạc lối cải thiện là để họ quan sát một dev sử dụng báo cáo lỗi của họ để điều tra. Việc này chỉ đơn giản là đặt họ ngồi cạnh một dev, người mà nhận báo cáo lỗi từ họ, và để họ quan sát một cách âm thầm(mà không can thiệp) vào cách dev xử lý. Thông thường, việc này sẽ tạo ra sự trao đổi hữu ích về việc làm sao một báo cáo lỗi trở nên tốt hơn cho cả hai phía.&lt;/p&gt;
 &lt;p&gt;TienTN (2018/12/07)&lt;/p&gt;</content></entry><entry><title>Kẻ gieo sợ hãi</title><link href="https://manage-it.github.io/blog/ke-gieo-so-hai.html" rel="alternate"></link><published>2018-12-07T00:00:00+07:00</published><updated>2018-12-07T00:00:00+07:00</updated><author><name>TienTN</name></author><id>tag:manage-it.github.io,2018-12-07:/blog/ke-gieo-so-hai.html</id><summary type="html">&lt;blockquote&gt;
@@ -580,7 +580,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Đối với một ứng dụng, chỉ là bình thường khi chất lượng giữa các tính năng không đồng đều. Một số tính năng có thể khá đơn giản, hoặc được phát triển bởi các dev có kỹ năng cao, và vì vậy có ít hoặc không có lỗi. Một số tính năng có thể khả phức tạp, hoặc được phát triển bởi các dev tay nghề yếu hơn, nên tất nhiên là đầy lỗi. Kẻ gieo sợ hãi do không may mà phần đầu tiên của ứng dụng họ đụng phải là phần chất lượng thấp, và vì thế họ &lt;strong&gt;tuyên bố rằng cả sản phẩm có chất lượng thấp mà không cần điều tra thêm&lt;/strong&gt;*.&lt;/p&gt;
 &lt;p&gt;Có nhiều điều có thể nói về phản ứng của một dev bị thất vọng bởi cách người QA tester lãng phí thời gian của họ (xem "&lt;a href="/QA_ke_gay_lac_loi"&gt;Kẻ gây lạc lối&lt;/a&gt;"), nhưng tình huống này lại nảy sinh từ hai phía. Chúng ta thường xuyên gặp trường hợp: một dev sẽ bàn giao phần mềm một cách có chủ đích cho QA tester dù họ biết chắc chắn rằng họ chưa test hết toàn bộ, để đạt được sự ghi nhận là đã hoàn thành công việc, hoặc đã theo kịp deadline. Khi một QA tester bắt đầu test một hệ thống như vậy, họ ngay lập tức gặp một đống lỗi mà đáng lẽ phải được bắt bởi dev. Chúng ta có thể thông cảm việc họ có xu hướng suy luận rằng cả hệ thống đều như vậy, và tuyên bố rằng toàn bộ sản phẩm có chất lượng quá thấp.&lt;/p&gt;
 &lt;p&gt;Kẻ gieo sợ hãi thường là một người có một số quyền hạn trong nhóm QA, chính vì thế quan điểm của họ được coi trọng. Quyền hạn của họ càng cao, sự ảnh hưởng xấu sẽ càng lớn lên dự án. Một kịch bản thảm họa thường thấy là:&lt;/p&gt;
@@ -590,7 +590,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;Kẻ gieo sợ hại ngừng tất cả các nỗ lực test, và đưa vấn đề lên cấp quản lý cao hơn, rằng sản phẩm có một chất lượng tồi tệ.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Đây là một trường hợp điển hình của việc cố tránh sai lầm bằng cách phá hủy hết mọi thứ, kể cả những thứ tốt đẹp. Thỉnh thoảng, QA sẽ phải làm một quyết định đúng nhưng rất khó khăn, đặc biệt là khi làm việc với một team dev có tiền lệ giao các sản phẩm chưa kiểm tra kỹ tới QA. Tuy vậy, đôi khi dù rất khó khăn, họ lại ra quyết định sai, dựa trên kết quả làm việc của một dev yếu tay nghề mà cho rằng cả đội đều kém, chỉ vì tình cờ phần kết quả đó lại trùng với phần test đầu tiên của nhóm QA.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Một QA tester trở thành Kẻ gieo sợ hãi sau một thời gian liên tiếp bị trúng đòn từ nhóm dev. Nếu trong quá khứ, nhóm dev đã luôn đảm bảo giao các sản phẩm có chất lượng cao tới nhóm QA, sẽ không có đất cho các đối tượng này sinh ra. Một khi QA tester trở thành Kẻ gieo sợ hãi, sẽ rất khó để đội dev lấy lại được lòng tin của họ, đặc biệt là khi trong đội dev có "Kẻ bất tài" và "Con bò đực trong tiệm đồ sứ".&lt;/p&gt;
 &lt;p&gt;Thông thường, nhất là trong các team dev lớn, thì chất lượng thấp gây ra bởi các cá nhân dev chứ không phải toàn bộ nhóm. Bởi vậy thường có thông lệ là kết quả của các dev yếu kém này sẽ nằm ở cuối danh sách các việc cần kiểm tra, hoặc sẽ có một số nỗ lực để đảm bảo là Kẻ gieo sợ hãi không đụng được tới phần này. Tuy nhiên, nếu làm vậy, chúng ta phải đối mặt với nguy cơ từ việc che giấu vấn đề thật sự: Đang có những dev ở trong nhóm tác động xấu tới dự án.  &lt;/p&gt;
 &lt;p&gt;TienTN (2018/12/07)&lt;/p&gt;</content></entry><entry><title>Kẻ xấc xược</title><link href="https://manage-it.github.io/blog/ke-xac-xuoc.html" rel="alternate"></link><published>2018-12-07T00:00:00+07:00</published><updated>2018-12-07T00:00:00+07:00</updated><author><name>TienTN</name></author><id>tag:manage-it.github.io,2018-12-07:/blog/ke-xac-xuoc.html</id><summary type="html">&lt;blockquote&gt;
@@ -609,7 +609,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Việc điền đầy đủ vào một báo cáo bug là một công việc tốn công sức và được coi là một tiến trình nặng nề. Bởi vì thế, một số QA tester từ chối việc đầu tư công sức vào đây. Luôn luôn có những QA tester với một số cấp độ quyền hạn đủ để cho phép họ cảm thấy mình không cần phải cố gắng gì trong các báo cáo bug.&lt;/p&gt;
 &lt;p&gt;Cũng là bình thường đối với thể loại này khi họ giữ một cái nhìn coi thường đối với đội dev, và không thấy cần cân nhắc dùng thời gian để phân tích bất cứ gì cho lỗi này: Quan điểm chung của họ là đội dev phải nhảy vào và tìm ra những thông tin đó.&lt;/p&gt;
 &lt;p&gt;Các báo cáo thông thường của kẻ QA xấc xược là:&lt;/p&gt;
@@ -634,7 +634,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Rõ ràng là các dev sẽ bớt vui khi nhận một báo cáo bug với những câu nhận định, thay vì các bước tái tạo bug. Rất hiếm khi một nhà phân tích QA chuyên nghiệp làm như vậy, tuy nhiên, vấn đề lại thường xuất hiện khi các thành viên khác của một tổ chức được gọi vào làm công việc này. Tức là khi chỉ có một thời gian hạn chế để kiểm thử một ứng dụng trước release, và đội QA bị thiếu nhân lực. Kết quả của việc thêm sự "giúp đỡ" này vào team QA thường chỉ tạo ra hỗn loạn, bug thì bị các dev phủ nhận, tạo ra xung đột trong đội dự án, làm sâu sắc thêm các mâu thuẫn vốn có.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Nói chung, công việc QA chỉ nên để người QA chuyên nghiệp làm. Không may là, có một cảm tính trong ngành công nghiệp phần mềm, rằng "ai cũng có thể làm QA", nhưng nó hoàn toàn không đúng. Cần phải nói chính xác hơn rằng bất kỳ ai cũng có thể tìm ra lỗi, nhưng chỉ có những người QA chuyên nghiệp mới có thể nhận dạng các bug quan trọng tiềm ẩn trong các case nằm nơi ngóc ngách, và báo cáo chung theo một cách mà dev có thể hiểu ngay, tái tạo, và sửa chữa.&lt;/p&gt;
 &lt;p&gt;Bình thường, người thể hiện như một kẻ QA xấc xược tin rằng họ có mọi quyền để trở thành kẻ xấc xược. Nếu họ là thành viên của nhóm QA, họ cần phải bị cảnh cáo để sửa chữa thái độ này, vì nó chống lại hiệu suất, và đó không phải việc mà họ cần làm. &lt;/p&gt;
 &lt;p&gt;Nếu họ là một nhân viên "trám chỗ", vốn được thêm vào nhóm QA, họ không nên được tiếp tục làm công việc báo cáo bug này, cho tới khi họ có thể làm chuyên nghiệp hơn.&lt;/p&gt;
@@ -655,11 +655,11 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Cao&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Tìm vấn đề trong một hệ thống có thể rất vui giống như một cuộc săn kho báu, và sau đó cũng rất hấp dẫn khi ta giải các câu đố để lấy được báu vật. Có thể không phải mọi người đều đồng ý rằng một QA tester lý tưởng làm việc như vậy khi họ tìm lỗi, nhưng, vấn đề có thể tồn tại nếu QA tester chỉ tìm kiếm trong các tài liệu. Thay vì tập trung chỉ vào vấn đề chính, người dev phải đọc qua một câu chuyện dài lê thê, với nhưng thông tin ít giá trị sử dụng, để cố gắng tim ra những mẫu thông tin liên quan.&lt;/p&gt;
 &lt;p&gt;Nhà khoa học QA này là người đã quá coi trọng khẩu hiệu: "Hãy tài liệu hóa lỗi một cách đầy đủ". Lỗi được báo cáo trong các mẫu văn chương, thay vì chỉ đơn giản là mô tả nó kèm theo một chuỗi các bước để tái tạo nó. Đọc về một lỗi của Nhà khoa học này rất tốn thời gian, và cuối cùng có thể vẫn chưa rõ được vấn đề là gì. Điều này rất bình thường do trong mô tả của họ có thể bao gồm sự phát hiện rất nhiều lỗi, và mô tả này hướng tới một mảng của hệ thống chứ không phải một vấn đề cụ thể nào đó.&lt;/p&gt;
 &lt;p&gt;Khi các dev nhận báo cáo dạng này, họ thường ca thán về tỷ lệ thông tin nhiễu quá cao, khi họ phải tốn thời gian cố gắng giữ mình tỉnh táo để tìm ra cái chi tiết nào đề cập đến vấn đề cụ thể. Việc này dẫn đến vấn đế lãng phí thời gian và sự thất vọng giữa các dev, cũng như là tốn thời gian cho cả QA tester khi họ dùng quá nhiều thời gian để tài liệu hóa những thứ không liên quan.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;QA Nhà khoa học cho thấy chúng ta cần một khóa huấn luyện cách viết về lỗi một cách đơn giản. Thường thì việc chuyển từ cách viết cũ sang cách viết đơn giản, rõ ràng hơn rất dễ, và họ có thể làm được ngay khi họ được cho biết rằng cần phải làm gì là đúng. Cách hiệu quả nhất để huấn luyện họ chuyển đổi kiểu báo cáo là viết một hoặc nhiều báo cáo lỗi của chính họ, sang một định dạng mà bạn cần. Việc này sẽ tạo ra một sự hướng dẫn có tính khuôn mẫu về "trước thay đổi và sau thay đổi", và họ sẽ dùng được trong tương lai.  Điều bạn nhận được sẽ là một người QA tester lý tưởng, có thể tạo ra các báo cáo rõ ràng, súc tích.&lt;/p&gt;
 &lt;p&gt;TienTN (2018/12/07)&lt;/p&gt;</content></entry><entry><title>Người bị chà đạp</title><link href="https://manage-it.github.io/blog/nguoi-bi-cha-dap.html" rel="alternate"></link><published>2018-12-06T00:00:00+07:00</published><updated>2018-12-06T00:00:00+07:00</updated><author><name>TienTN</name></author><id>tag:manage-it.github.io,2018-12-06:/blog/nguoi-bi-cha-dap.html</id><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;Một QA bị đánh bại bởi các dev tới mức mà họ hiếm khi dám báo cáo một lỗi, vì quá sợ sự bắt nạt của dev.&lt;/p&gt;
@@ -676,7 +676,7 @@ Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà ho
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy hiểm với project: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề:&lt;/h2&gt;
+&lt;h2&gt;Vấn đề:&lt;/h2&gt;
 &lt;p&gt;Có lẽ không có biểu hiện nào rõ hơn về biểu hiện của kẻ bề trên hơn là cách cư xử thông thường của các dev với QA. Hơn nữa, cũng chẳng hề khó để ta kiếm được một ca mà QA tester bị bắt nạt công khai bởi dev có tính gây hấn, ngay cả khi họ đang thông báo một bug hoàn toàn chính đáng. Để chống lại hiện tượng này, một người QA thành công cần phải có những tính cách sau:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -702,7 +702,7 @@ Dev tin rằng họ hiểu sâu hơn QA nhiều về hệ thống (xem dev Kẻ 
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Sự thể hiện thụ động của "Kẻ bị chà đạp" sẽ thường chỉ làm khó khăn thêm cho việc phát hiện sai sót của họ. Công việc chủ yếu (của họ) là phân loại các dev mà họ làm việc chung, tìm kiếm những dấu hiệu của sự thù địch sẽ được thể hiện.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;QA tester đang bị bắt nạp bởi dev, chỉ đơn giản là vậy. Và vì vậy, các dev cần phải được xử trí giống như mọi trường hợp bắt nạt:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -733,7 +733,7 @@ Dev tin rằng họ hiểu sâu hơn QA nhiều về hệ thống (xem dev Kẻ 
 &lt;li&gt;&lt;em&gt;Khả năng sửa chữa: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Nguy cơ với dự án: &lt;strong&gt;Thấp&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="van-e"&gt;Vấn đề&lt;/h2&gt;
+&lt;h2&gt;Vấn đề&lt;/h2&gt;
 &lt;p&gt;Để tìm bug trong hệ thống, có hai loại kỹ thuật phổ biến là:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -750,7 +750,7 @@ Dev tin rằng họ hiểu sâu hơn QA nhiều về hệ thống (xem dev Kẻ 
 &lt;p&gt;Viết một kế hoạch test là một việc cần cù, và không có gì đảm bảo là vào thời điểm sản phẩm sẵn sàng để test, thì kế hoạch test này hoàn toàn phù hợp, vì lý do có sự thay đổi về yêu cầu. Điều này có thể gây ra việc một QA tester từ bỏ hoàn toàn kế hoạch test, và đơn giản chi tương tác với phần mềm trong sự hi vọng là tìm ra lỗi.&lt;/p&gt;
 &lt;p&gt;Thực tế là, việc tương tác ngẫu nhiên với một ứng dụng sẽ tìm ra lỗi, đặc biệt là trong giai đoạn đầu của quá trình phát triển sản phẩm. Tuy nhiên, khi sản phẩm bắt đầu hoàn thiện, sẽ khó hơn nhiều để tìm lỗi theo cách này, bởi vì các lỗi còn lại sẽ ẩn giấu ở các case nằm nơi ngóc ngách. Điều này dẫn tới một cảm giác sai về an toàn, có vẻ ứng dụng đã không còn lỗi, mà thực ra là chưa dược test hết.&lt;/p&gt;
 &lt;p&gt;Chú ý quan trọng cần nhớ là tương tác ngẫu nhiên với ứng dụng vẫn là một phương pháp test hợp lệ, bởi vì nó có thể bắt được các tình huông không được liệt kê trong kế hoạch test. Tuy nhiên, nó là một phương pháp để hoàn thiện một kế hoạch test, chứ không thể thay thế.&lt;/p&gt;
-&lt;h2 id="giai-phap"&gt;Giải pháp:&lt;/h2&gt;
+&lt;h2&gt;Giải pháp:&lt;/h2&gt;
 &lt;p&gt;Người bấm loạn xạ có thể nảy sinh ra từ 2 tình huống:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
