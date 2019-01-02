@@ -27,7 +27,7 @@ Cần hiểu sự quan trọng trong việc phân biệt giữa các Dev Manager
 * Họ tận lực hướng tới việc có những cuộc trao đổi riêng với cấp trên, ngoại trừ những người có thể nghi vấn về sự chính xác hay trung thực trong các luận điểm mà họ đưa ra.
 * Trong các báo cáo trực tiếp, họ chỉ giới hạn trong việc tạo ra sự nổi trội, ví dụ: thúc đẩy để có được các dự đoán thời hạn hoàn thành thách thức hơn, hoặc quyết định dùng một công nghệ mà cấp trên đang ưa thích.
 
-Dev Manager, không giống Product Manager hay Project Manager, có thể chối bỏ hết trách nhiệm nếu dự án thất bại, vì họ không được giao trực tiếp các công việc trong dự án. Nếu họ cảm thấy dự án sắp thất bại, họ thường cố gắng ngồi vào một vị trí có quyền lực, và một khi đạt được, họ sẽ thúc đấy để dự án thất bại càng nhanh chóng hơn.
+Dev Manager, không giống Product Manager hay Project Manager, có thể chối bỏ hết trách nhiệm nếu dự án thất bại, vì họ không được giao trực tiếp các công việc trong dự án. Nếu họ cảm thấy dự án sắp thất bại, (nhằm thoát ra) họ thường cố gắng ngồi vào một vị trí có quyền lực, và một khi đạt được, họ sẽ có cơ hội thúc đấy để dự án thất bại càng nhanh chóng hơn.
 
 ## Giải pháp:
 
