@@ -1,9 +1,10 @@
 Title: Người ước lượng dư thừa cực đoan 
 Date: 2018-12-19
 Category: Developer
-Authors: TienTN
+Authors: Neil Green
+Summary: Một dev sợ hãi việc trễ deadline tới mức họ luôn yêu cầu thêm tối đa thời gian cho công việc được giao.
 
-_Viết tắt: Người ước lượng dư thừa
+>Viết tắt: Người ước lượng dư thừa
 > Một dev sợ hãi việc trễ deadline tới mức họ luôn yêu cầu thêm tối đa thời gian cho công việc được giao.
 
 * _Có thể biến đổi thành: Dev "Bò đực trong cửa hàng đồ sứ"_

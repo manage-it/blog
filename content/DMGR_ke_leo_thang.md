@@ -4,7 +4,7 @@ Modified: 2019-01-02 00:20
 Category: Dev Manager
 Tags: leo thang
 Slug: ke-leo-thang
-Authors: TienTN
+Authors: Neil Green
 Summary: Một Dev Manager với các tham vọng thăng tiến sự nghiệp, và coi đội dev chỉ là một phương tiện.
 
 > Một Dev Manager với các tham vọng thăng tiến sự nghiệp, và coi đội dev chỉ là một phương tiện.

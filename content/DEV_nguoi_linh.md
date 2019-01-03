@@ -1,7 +1,8 @@
 Title: Người Lính
 Date: 2018-12-13
 Category: Developer
-Authors: TienTN
+Authors: Neil Green
+Summary: Một dev làm chính xác điều được yêu cầu mà không có chút thắc mắc, không quan tâm đúng sai.
 
 > Một dev làm chính xác điều được yêu cầu mà không có chút thắc mắc, không quan tâm đúng sai.
 

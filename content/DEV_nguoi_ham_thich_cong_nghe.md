@@ -1,7 +1,8 @@
 Title: Người ham thích công nghệ
 Date: 2018-12-12
 Category: Developer
-Authors: TienTN
+Authors: Neil Green
+Summary: Một dev cuồng công nghệ mới tới nỗi họ luôn tự ứng cử vào các dự án (có công nghệ mới), mà không ý thức được rằng mình có phù hợp hay không.
 > Một dev cuồng công nghệ mới tới nỗi họ luôn tự ứng cử vào các dự án (có công nghệ mới), mà không ý thức được rằng mình có phù hợp hay không.
 
 * _Có thể biến đổi thành: Dev "Kẻ bắt cóc"_

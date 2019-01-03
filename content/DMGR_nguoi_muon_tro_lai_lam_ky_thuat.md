@@ -4,7 +4,7 @@ Modified: 2018-12-29 10:20
 Category: Dev Manager
 Tags: trở lại 
 Slug: nguoi-muon-tro-lai-lam-ky-thuat
-Authors: TienTN
+Authors: Neil Green
 Summary: Một Dev Manager muốn trở lại cuộc đời lập trình, sau khi phát hiện ra là cuộc sống của một Dev Manager không dành cho họ.
 
 > Viết tắt: "Người muốn trở lại"

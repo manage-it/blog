@@ -4,7 +4,7 @@ Modified: 2019-01-02 00:20
 Category: Dev Manager
 Tags: khong hieu ky thuat
 Slug: nguoi-khong-hieu-ky-thuat
-Authors: TienTN
+Authors: Neil Green
 Summary: Một Dev Manager không có kiến thức kỹ thuật, và vì thế "chới với" khi quản lý các dev.
 
 > Một Dev Manager với các tham vọng thăng tiến sự nghiệp, và coi đội dev chỉ là một phương tiện.

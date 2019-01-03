@@ -1,7 +1,8 @@
 Title: Kẻ bắt cóc 
 Date: 2018-12-15
 Category: Developer
-
+Authors: Neil Green
+Summary: Là một dev đã từng việt một phần quan trọng của sản phẩm, và từ chối bất kỳ một dev nào làm việc với nó, để giữ vững tầm quan trọng không thể thay thế được của họ. 
 > Là một dev đã từng việt một phần quan trọng của sản phẩm, và từ chối bất kỳ một dev nào làm việc với nó, để giữ vững tầm quan trọng không thể thay thế được của họ.
 
 * _Có thể biến đổi thành: Dev "Người bảo trì" hoặc "Diva"_

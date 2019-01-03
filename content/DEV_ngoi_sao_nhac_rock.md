@@ -4,7 +4,7 @@ Modified: 2018-12-26 10:20
 Category: Developer
 Tags: dev
 Slug: ngoi-sao-nhac-rock
-Authors: TienTN
+Authors: Neil Green
 Summary: Một dev quá giỏi, quá hiệu quả, quá cần thiết đến nỗi nếu họ ra đi, cả dự án sẽ sụp đổ.
 
 > Viết tắt: "Ngôi sao"

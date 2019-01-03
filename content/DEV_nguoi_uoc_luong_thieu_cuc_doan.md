@@ -1,9 +1,10 @@
 Title: Người ước lượng thiếu cực đoan 
 Date: 2018-12-19
 Category: Developer
-Authors: TienTN
+Authors: Neil Green
+Summary: Một dev thường xuyên và liên tục estimate thời gian thực hiện task dưới mức thực tế.
 
-_Viết tắt: Người ước lượng thiếu_
+>Viết tắt: Người ước lượng thiếu_
 > Một dev thường xuyên và liên tục estimate thời gian thực hiện task dưới mức thực tế.
 
 * _Có thể biến đổi thành: Dev "[Người ước lượng dư thừa cực đoan](/DEV_nguoi_uoc_luong_du_thua_cuc_doan)"_

@@ -1,8 +1,8 @@
 Title: Kẻ đổ lỗi 
 Date: 2018-12-09
 Category: Quality Assurance
-Authors: TienTN
-
+Authors: Neil Green
+Summary: Một QA luôn buộc tội không kiểm tra cho dev khi anh ta tìm thấy lỗi.
 > Một QA luôn buộc tội không kiểm tra cho dev khi anh ta tìm thấy lỗi.
 
 * _Có thể biển đổi thành: QA "Kẻ gieo sợ hãi"_

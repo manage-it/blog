@@ -1,7 +1,8 @@
 Title: Kẻ gây lạc lối 
 Date: 2018-12-07
 Category: Quality Assurance
-Authors: TienTN
+Authors: Neil Green
+Summary: Một QA thường xuyên báo lỗi sai, dẫn dắt các dev vào con đường sai khi họ cố gắng tái tạo và sửa lỗi.
 
 > Một QA thường xuyên báo lỗi sai, dẫn dắt các dev vào con đường sai khi họ cố gắng tái tạo và sửa lỗi.
 

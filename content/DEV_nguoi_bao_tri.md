@@ -1,8 +1,8 @@
 Title: Người bảo trì 
 Date: 2018-12-14
 Category: Developer
-Authors: TienTN
-
+Authors: Neil Green
+Summary: Một dev chỉ có khả năng bảo trì một phần mềm cũ, không có khả năng làm các hệ thống mới.
 > Một dev chỉ có khả năng bảo trì một phần mềm cũ, không có khả năng làm các hệ thống mới.
 
 * _Có thể biến hình thành: Dev "Kẻ bắt cóc", hoặc "Người lính"_

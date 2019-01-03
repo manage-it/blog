@@ -1,7 +1,8 @@
 Title: Vòi nước cứu hỏa
 Date: 20181220
 Category: Quality Assurance
-Authors: TienTN
+Authors: Neil Green
+Summary: Là một QA dìm ngập nhanh chóng các dev với quá nhiều báo cáo lỗi, khiến cho đội dev sẽ không bao giờ hoàn thành công việc. 
 
 > Là một QA dìm ngập nhanh chóng các dev với quá nhiều báo cáo lỗi, khiến cho đội dev sẽ không bao giờ hoàn thành công việc. 
 

@@ -4,7 +4,7 @@ Modified: 2019-01-03 00:20
 Category: Dev Manager
 Tags: từng làm kỹ thuật
 Slug: nguoi-tung-lam-ky-thuat
-Authors: TienTN
+Authors: Neil Green
 Summary: Một Dev Manager đã từng là dev trong một giai đoạn quá khứ nào đó, (kinh nghiệm) khiến họ tin rằng các quan điểm kỹ thuật của họ vẫn còn thích ứng được với công nghệ ngày nay.
 
 > Một Dev Manager đã từng là dev trong một giai đoạn quá khứ nào đó, (kinh nghiệm) khiến họ tin rằng các quan điểm kỹ thuật của họ vẫn còn thích ứng được với công nghệ ngày nay.

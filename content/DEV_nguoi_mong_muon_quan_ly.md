@@ -1,8 +1,8 @@
 Title: Người mong được quản lý 
 Date: 2018-12-14
 Category: Developer
-Authors: TienTN
-
+Authors: Neil Green
+Summary: Một dev đã quyết định thoát khỏi sự khó khăn trong việc lập trình, định hướng công việc của họ là trở thành một nhà quản lý.
 > Một dev đã quyết định thoát khỏi sự khó khăn trong việc lập trình, định hướng công việc của họ là trở thành một nhà quản lý.
 
 * _Có thể biến đổi thành: Nhà quản lý phát triển dạng "Cựu chuyên gia công nghệ" hoặc "Người leo thang"_

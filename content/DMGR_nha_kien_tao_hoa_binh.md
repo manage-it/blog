@@ -4,7 +4,7 @@ Modified: 2018-12-31 10:20
 Category: Dev Manager
 Tags: kiến tạo hòa bình 
 Slug: nha-kien-tao-hoa-binh
-Authors: TienTN
+Authors: Neil Green
 Summary: Một Dev Manager tin rằng các cuộc tranh luận làm giảm hiệu quả công việc, và vì vậy cố gắng triệt tiêu bất kỳ hình thức tranh luận này.
 
 > Một Dev Manager tin rằng các cuộc tranh luận làm giảm hiệu quả công việc, và vì vậy cố gắng triệt tiêu bất kỳ hình thức tranh luận này.

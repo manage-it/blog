@@ -4,7 +4,7 @@ Modified: 2018-12-20 10:20
 Category: Developer
 Tags: dev
 Slug: bo-duc-trong-tiem-do-su
-Authors: TienTN
+Authors: Neil Green
 Summary: Một dev quá tập trung vào cho mục tiêu hoàn thành công việc mà hoàn toàn quên  đi các ý niệm về chất lượng. 
 
 > Viết tắt: "Bò đực"

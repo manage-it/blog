@@ -1,8 +1,8 @@
 Title: Kẻ thiếu năng lực
 Date: 2018-12-14
 Category: Developer
-Authors: TienTN
-
+Authors: Neil Green
+Summary: Một dev thiếu hiểu biết hoặc thiếu kỹ năng để làm công việc viết phần mềm.
 > Một dev thiếu hiểu biết hoặc thiếu kỹ năng để làm công việc viết phần mềm.
 
 * _Có thể biến đổi thành: Dev "Người Lính", hoặc "Kẻ dự toán vượt mức cực đoan"_

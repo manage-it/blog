@@ -1,7 +1,8 @@
 Title: Người lý tưởng hóa 
 Date: 2018-12-14
 Category: Developer
-Authors: TienTN
+Authors: Neil Green
+Summary: Một dev bị ám ảnh bởi việc đạt được vẻ đẹp của kiến trúc và sự hoàn thiện trong mã nguồn, khiến họ quên mất công việc của mình là tạo ra giá trị kinh doanh.
 
 > Một dev bị ám ảnh bởi việc đạt được vẻ đẹp của kiến trúc và sự hoàn thiện trong mã nguồn, khiến họ quên mất công việc của mình là tạo ra giá trị kinh doanh.
 

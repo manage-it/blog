@@ -1,7 +1,8 @@
 Title: Kẻ bấm loạn xạ 
 Date: 2018-12-05
 Category: Quality Assurance
-Authors: TienTN
+Authors: Neil Green
+Summary: Là một QA chuyên tìm lỗi đơn giản chỉ bằng cách bấm lên bất kỳ cái gì họ thích.
 
 >Là một QA chuyên tìm lỗi đơn giản chỉ bằng cách bấm lên bất kỳ cái gì họ thích.
 
