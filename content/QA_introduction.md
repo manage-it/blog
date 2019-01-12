@@ -1,9 +1,9 @@
 Title: QA - Những người đảm bảo chất lượng
 Date: 2019-01-06 00:20
 Modified: 2019-01-06 00:20 
-Category: QA - Những người đảm bảo chất lượng
-Tags: QA
-Slug: QA
+Category: Quality Assurance
+Tags: QA, Quality Assurance
+Slug: QA, Quality Assurance
 Authors: Neil Green
 Translator: TienTN
 
