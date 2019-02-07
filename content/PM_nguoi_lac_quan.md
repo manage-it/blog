@@ -8,8 +8,8 @@ Authors: Neil Green
 Summary: Một Project Manager (PM) tự tin vào thành công của dự án ngay cả khi có các minh chứng ngược lại.
 
 > Một Project Manager (PM) tự tin vào thành công của dự án ngay cả khi có các minh chứng ngược lại.
-* _Có thể biến đổi thành: PM dạng "Hoạt náo viên" hoặc ""_
-* _Nguy hiểm khi làm việc với: Dev dạng "Người ước lượng thiếu cực đoan"_
+* _Có thể biến đổi thành: PM dạng "Hoạt náo viên" hoặc "Kẻ hoang tưởng"_
+* _Nguy hiểm khi làm việc với: DEV dạng "Người ước lượng thiếu cựu đoan"_
 * _Khả năng sửa chữa: **Thấp**_
 * _Nguy cơ với dự án: **Cực cao**_
 
